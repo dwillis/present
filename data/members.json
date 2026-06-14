@@ -1,0 +1,5246 @@
+{
+  "updated_at": "2026-06-14T20:26:06.214047+00:00",
+  "congress": 119,
+  "session": 2,
+  "members": {
+    "M001245": {
+      "name": "Menefee, Christian D.",
+      "state": "Texas",
+      "district": 18,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "P000622": {
+      "name": "Patronis, Jimmy",
+      "state": "Florida",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000484": {
+      "name": "Fine, Randy",
+      "state": "Florida",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "V000138": {
+      "name": "Vindman, Eugene Simon",
+      "state": "Virginia",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "T000490": {
+      "name": "Taylor, David J.",
+      "state": "Ohio",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001230": {
+      "name": "Subramanyam, Suhas",
+      "state": "Virginia",
+      "district": 10,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "R000622": {
+      "name": "Riley, Josh",
+      "state": "New York",
+      "district": 19,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "P000621": {
+      "name": "Pou, Nellie",
+      "state": "New Jersey",
+      "district": 9,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001240": {
+      "name": "McDowell, Addison P.",
+      "state": "North Carolina",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001239": {
+      "name": "McGuire, John J.",
+      "state": "Virginia",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001237": {
+      "name": "McDonald Rivet, Kristen",
+      "state": "Michigan",
+      "district": 8,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-04T20:08:00-04:00",
+        "vote_number": 207,
+        "description": "HR 2913 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001236": {
+      "name": "Moore, Tim",
+      "state": "North Carolina",
+      "district": 14,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001235": {
+      "name": "Moore, Riley M.",
+      "state": "West Virginia",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001232": {
+      "name": "McClain Delaney, April",
+      "state": "Maryland",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001231": {
+      "name": "Mannion, John W.",
+      "state": "New York",
+      "district": 22,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001230": {
+      "name": "Mackenzie, Ryan",
+      "state": "Pennsylvania",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000606": {
+      "name": "Latimer, George",
+      "state": "New York",
+      "district": 16,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "K000405": {
+      "name": "Knott, Brad",
+      "state": "North Carolina",
+      "district": 13,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000403": {
+      "name": "Kennedy, Mike",
+      "state": "Utah",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "J000310": {
+      "name": "Johnson, Julie",
+      "state": "Texas",
+      "district": 32,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "H001103": {
+      "name": "Hern\u00e1ndez, Pablo Jose",
+      "state": "Puerto Rico",
+      "district": 0,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-05-15T10:08:00-04:00",
+        "vote_number": 174,
+        "description": "Failed",
+        "position": "No"
+      }
+    },
+    "H001102": {
+      "name": "Harris, Mark",
+      "state": "North Carolina",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001101": {
+      "name": "Harrigan, Pat",
+      "state": "North Carolina",
+      "district": 10,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000604": {
+      "name": "Goodlander, Maggie",
+      "state": "New Hampshire",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Present"
+      }
+    },
+    "G000603": {
+      "name": "Gill, Brandon",
+      "state": "Texas",
+      "district": 26,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000602": {
+      "name": "Gillen, Laura",
+      "state": "New York",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000601": {
+      "name": "Goldman, Craig A.",
+      "state": "Texas",
+      "district": 12,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000483": {
+      "name": "Friedman, Laura",
+      "state": "California",
+      "district": 30,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "F000482": {
+      "name": "Fedorchak, Julie",
+      "state": "North Dakota",
+      "district": 0,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "E000301": {
+      "name": "Elfreth, Sarah",
+      "state": "Maryland",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "D000635": {
+      "name": "Dexter, Maxine",
+      "state": "Oregon",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "D000634": {
+      "name": "Downing, Troy",
+      "state": "Montana",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001136": {
+      "name": "Conaway, Herbert C.",
+      "state": "New Jersey",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001327": {
+      "name": "Bresnahan, Robert P.",
+      "state": "Pennsylvania",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001326": {
+      "name": "Bynum, Janelle S.",
+      "state": "Oregon",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001325": {
+      "name": "Biggs, Sheri",
+      "state": "South Carolina",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001322": {
+      "name": "Baumgartner, Michael",
+      "state": "Washington",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001321": {
+      "name": "Barrett, Tom",
+      "state": "Michigan",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000606": {
+      "name": "Grijalva, Adelita S.",
+      "state": "Arizona",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001229": {
+      "name": "Shreve, Jefferson",
+      "state": "Indiana",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001228": {
+      "name": "Schmidt, Derek",
+      "state": "Kansas",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "O000177": {
+      "name": "Onder, Robert F.",
+      "state": "Missouri",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "O000176": {
+      "name": "Olszewski, Johnny",
+      "state": "Maryland",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001238": {
+      "name": "McBride, Sarah",
+      "state": "Delaware",
+      "district": 0,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001234": {
+      "name": "Morrison, Kelly",
+      "state": "Minnesota",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001233": {
+      "name": "Messmer, Mark B.",
+      "state": "Indiana",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000404": {
+      "name": "King-Hinds, Kimberlyn",
+      "state": "Northern Mariana Islands",
+      "district": 0,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-05-15T10:08:00-04:00",
+        "vote_number": 174,
+        "description": "Failed",
+        "position": "No"
+      }
+    },
+    "J000311": {
+      "name": "Jack, Brian",
+      "state": "Georgia",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001099": {
+      "name": "Haridopolos, Mike",
+      "state": "Florida",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000481": {
+      "name": "Figures, Shomari",
+      "state": "Alabama",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "E000300": {
+      "name": "Evans, Gabe",
+      "state": "Colorado",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001137": {
+      "name": "Crank, Jeff",
+      "state": "Colorado",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "W000829": {
+      "name": "Wied, Tony",
+      "state": "Wisconsin",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001229": {
+      "name": "McIver, LaMonica",
+      "state": "New Jersey",
+      "district": 10,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "R000619": {
+      "name": "Rulli, Michael A.",
+      "state": "Ohio",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000480": {
+      "name": "Fong, Vince",
+      "state": "California",
+      "district": 20,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000402": {
+      "name": "Kennedy, Timothy M.",
+      "state": "New York",
+      "district": 26,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001228": {
+      "name": "Maloy, Celeste",
+      "state": "Utah",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "A000380": {
+      "name": "Amo, Gabe",
+      "state": "Rhode Island",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001227": {
+      "name": "McClellan, Jennifer L.",
+      "state": "Virginia",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "V000135": {
+      "name": "Van Orden, Derrick",
+      "state": "Wisconsin",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001223": {
+      "name": "Sykes, Emilia Strong",
+      "state": "Ohio",
+      "district": 13,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001224": {
+      "name": "Self, Keith",
+      "state": "Texas",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001226": {
+      "name": "Salinas, Andrea",
+      "state": "Oregon",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000600": {
+      "name": "Perez, Marie Gluesenkamp",
+      "state": "Washington",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "O000175": {
+      "name": "Ogles, Andrew",
+      "state": "Tennessee",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001224": {
+      "name": "Moran, Nathaniel",
+      "state": "Texas",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001222": {
+      "name": "Miller, Max L.",
+      "state": "Ohio",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001223": {
+      "name": "Magaziner, Seth",
+      "state": "Rhode Island",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "L000603": {
+      "name": "Luttrell, Morgan",
+      "state": "Texas",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000602": {
+      "name": "Lee, Summer L.",
+      "state": "Pennsylvania",
+      "district": 12,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "L000599": {
+      "name": "Lawler, Michael",
+      "state": "New York",
+      "district": 17,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-10T16:32:00-04:00",
+        "vote_number": 220,
+        "description": "HR 8464 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000600": {
+      "name": "Langworthy, Nicholas A.",
+      "state": "New York",
+      "district": 23,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000601": {
+      "name": "Landsman, Greg",
+      "state": "Ohio",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000399": {
+      "name": "Kiggans, Jennifer A.",
+      "state": "Virginia",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001095": {
+      "name": "Hunt, Wesley",
+      "state": "Texas",
+      "district": 38,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001094": {
+      "name": "Hoyle, Val T.",
+      "state": "Oregon",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "H001096": {
+      "name": "Hageman, Harriet M.",
+      "state": "Wyoming",
+      "district": 0,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000478": {
+      "name": "Fry, Russell",
+      "state": "South Carolina",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "D000530": {
+      "name": "Deluzio, Christopher R.",
+      "state": "Pennsylvania",
+      "district": 17,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "D000594": {
+      "name": "De La Cruz, Monica",
+      "state": "Texas",
+      "district": 15,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001130": {
+      "name": "Crockett, Jasmine",
+      "state": "Texas",
+      "district": 30,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001131": {
+      "name": "Casar, Greg",
+      "state": "Texas",
+      "district": 35,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001317": {
+      "name": "Brecheen, Josh",
+      "state": "Oklahoma",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001318": {
+      "name": "Balint, Becca",
+      "state": "Vermont",
+      "district": 0,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "R000579": {
+      "name": "Ryan, Patrick",
+      "state": "New York",
+      "district": 18,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "F000472": {
+      "name": "Franklin, Scott",
+      "state": "Florida",
+      "district": 18,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001205": {
+      "name": "Miller, Carol D.",
+      "state": "West Virginia",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001123": {
+      "name": "Cisneros, Gilbert Ray",
+      "state": "California",
+      "district": 31,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001205": {
+      "name": "Scanlon, Mary Gay",
+      "state": "Pennsylvania",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000581": {
+      "name": "Gonzalez, Vicente",
+      "state": "Texas",
+      "district": 34,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "T000478": {
+      "name": "Tenney, Claudia",
+      "state": "New York",
+      "district": 24,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001201": {
+      "name": "Suozzi, Thomas R.",
+      "state": "New York",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001188": {
+      "name": "Stutzman, Marlin A.",
+      "state": "Indiana",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "N000002": {
+      "name": "Nadler, Jerrold",
+      "state": "New York",
+      "district": 12,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000553": {
+      "name": "Green, Al",
+      "state": "Texas",
+      "district": 9,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "F000110": {
+      "name": "Fields, Cleo",
+      "state": "Louisiana",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "D000399": {
+      "name": "Doggett, Lloyd",
+      "state": "Texas",
+      "district": 37,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "V000136": {
+      "name": "Vasquez, Gabe",
+      "state": "New Mexico",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "T000487": {
+      "name": "Tokuda, Jill N.",
+      "state": "Hawaii",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "T000488": {
+      "name": "Thanedar, Shri",
+      "state": "Michigan",
+      "district": 13,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001225": {
+      "name": "Sorensen, Eric",
+      "state": "Illinois",
+      "district": 17,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001221": {
+      "name": "Scholten, Hillary J.",
+      "state": "Michigan",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "R000617": {
+      "name": "Ramirez, Delia C.",
+      "state": "Illinois",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "P000620": {
+      "name": "Pettersen, Brittany",
+      "state": "Colorado",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "N000193": {
+      "name": "Nunn, Zachary",
+      "state": "Iowa",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001219": {
+      "name": "Moylan, James C.",
+      "state": "Guam",
+      "district": 0,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-04-30T10:59:00-04:00",
+        "vote_number": 152,
+        "description": "Agreed to",
+        "position": "No"
+      }
+    },
+    "M001217": {
+      "name": "Moskowitz, Jared",
+      "state": "Florida",
+      "district": 23,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001216": {
+      "name": "Mills, Cory",
+      "state": "Florida",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001226": {
+      "name": "Menendez, Robert",
+      "state": "New Jersey",
+      "district": 8,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001220": {
+      "name": "McGarvey, Morgan",
+      "state": "Kentucky",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "L000596": {
+      "name": "Luna, Anna Paulina",
+      "state": "Florida",
+      "district": 13,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-09T19:05:00-04:00",
+        "vote_number": 216,
+        "description": "HR 5408 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "L000597": {
+      "name": "Lee, Laurel M.",
+      "state": "Florida",
+      "district": 15,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000598": {
+      "name": "LaLota, Nick",
+      "state": "New York",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000398": {
+      "name": "Kean, Thomas H.",
+      "state": "New Jersey",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-03-05T16:50:00-05:00",
+        "vote_number": 87,
+        "description": "HR 7744 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000400": {
+      "name": "Kamlager-Dove, Sydney",
+      "state": "California",
+      "district": 37,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "J000307": {
+      "name": "James, John",
+      "state": "Michigan",
+      "district": 10,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "J000309": {
+      "name": "Jackson, Jonathan L.",
+      "state": "Illinois",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "I000058": {
+      "name": "Ivey, Glenn",
+      "state": "Maryland",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000599": {
+      "name": "Goldman, Daniel S.",
+      "state": "New York",
+      "district": 10,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-10T16:32:00-04:00",
+        "vote_number": 220,
+        "description": "HR 8464 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000598": {
+      "name": "Garcia, Robert",
+      "state": "California",
+      "district": 42,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "F000476": {
+      "name": "Frost, Maxwell",
+      "state": "Florida",
+      "district": 10,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "F000477": {
+      "name": "Foushee, Valerie P.",
+      "state": "North Carolina",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "E000235": {
+      "name": "Ezell, Mike",
+      "state": "Mississippi",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "E000246": {
+      "name": "Edwards, Chuck",
+      "state": "North Carolina",
+      "district": 11,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "D000230": {
+      "name": "Davis, Donald G.",
+      "state": "North Carolina",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001129": {
+      "name": "Collins, Mike",
+      "state": "Georgia",
+      "district": 10,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001316": {
+      "name": "Burlison, Eric",
+      "state": "Missouri",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001315": {
+      "name": "Budzinski, Nikki",
+      "state": "Illinois",
+      "district": 13,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001314": {
+      "name": "Bean, Aaron",
+      "state": "Florida",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "A000379": {
+      "name": "Alford, Mark",
+      "state": "Missouri",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "O000019": {
+      "name": "Obernolte, Jay",
+      "state": "California",
+      "district": 23,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000397": {
+      "name": "Kim, Young",
+      "state": "California",
+      "district": 40,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001215": {
+      "name": "Miller-Meeks, Mariannette",
+      "state": "Iowa",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001136": {
+      "name": "McClain, Lisa C.",
+      "state": "Michigan",
+      "district": 9,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "J000305": {
+      "name": "Jacobs, Sara",
+      "state": "California",
+      "district": 51,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "H001091": {
+      "name": "Hinson, Ashley",
+      "state": "Iowa",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000593": {
+      "name": "Gimenez, Carlos A.",
+      "state": "Florida",
+      "district": 28,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "T000481": {
+      "name": "Tlaib, Rashida",
+      "state": "Michigan",
+      "district": 12,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001199": {
+      "name": "Mast, Brian J.",
+      "state": "Florida",
+      "district": 21,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "R000609": {
+      "name": "Rutherford, John H.",
+      "state": "Florida",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000585": {
+      "name": "LaHood, Darin",
+      "state": "Illinois",
+      "district": 16,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "Z000018": {
+      "name": "Zinke, Ryan K.",
+      "state": "Montana",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "D000624": {
+      "name": "Dingell, Debbie",
+      "state": "Michigan",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001194": {
+      "name": "Moolenaar, John R.",
+      "state": "Michigan",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000582": {
+      "name": "Lieu, Ted",
+      "state": "California",
+      "district": 36,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "A000371": {
+      "name": "Aguilar, Pete",
+      "state": "California",
+      "district": 33,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "H001067": {
+      "name": "Hudson, Richard",
+      "state": "North Carolina",
+      "district": 9,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000462": {
+      "name": "Frankel, Lois",
+      "state": "Florida",
+      "district": 22,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-10T16:32:00-04:00",
+        "vote_number": 220,
+        "description": "HR 8464 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "P000608": {
+      "name": "Peters, Scott H.",
+      "state": "California",
+      "district": 50,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "V000130": {
+      "name": "Vargas, Juan",
+      "state": "California",
+      "district": 52,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "T000472": {
+      "name": "Takano, Mark",
+      "state": "California",
+      "district": 39,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "R000599": {
+      "name": "Ruiz, Raul",
+      "state": "California",
+      "district": 25,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "V000129": {
+      "name": "Valadao, David G.",
+      "state": "California",
+      "district": 22,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001080": {
+      "name": "Chu, Judy",
+      "state": "California",
+      "district": 28,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "H001058": {
+      "name": "Huizenga, Bill",
+      "state": "Michigan",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "W000798": {
+      "name": "Walberg, Tim",
+      "state": "Michigan",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S000344": {
+      "name": "Sherman, Brad",
+      "state": "California",
+      "district": 32,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "W000797": {
+      "name": "Wasserman Schultz, Debbie",
+      "state": "Florida",
+      "district": 25,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001059": {
+      "name": "Costa, Jim",
+      "state": "California",
+      "district": 21,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "D000600": {
+      "name": "Diaz-Balart, Mario",
+      "state": "Florida",
+      "district": 26,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "I000056": {
+      "name": "Issa, Darrell",
+      "state": "California",
+      "district": 48,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C000059": {
+      "name": "Calvert, Ken",
+      "state": "California",
+      "district": 41,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001220": {
+      "name": "Strong, Dale W.",
+      "state": "Alabama",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001225": {
+      "name": "Mullin, Kevin",
+      "state": "California",
+      "district": 15,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "K000401": {
+      "name": "Kiley, Kevin",
+      "state": "California",
+      "district": 3,
+      "party": "I",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001132": {
+      "name": "Crane, Elijah",
+      "state": "Arizona",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001133": {
+      "name": "Ciscomani, Juan",
+      "state": "Arizona",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "Y000067": {
+      "name": "Yakym, Rudy",
+      "state": "Indiana",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000475": {
+      "name": "Finstad, Brad",
+      "state": "Minnesota",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000474": {
+      "name": "Flood, Mike",
+      "state": "Nebraska",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001126": {
+      "name": "Carey, Mike",
+      "state": "Ohio",
+      "district": 15,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001313": {
+      "name": "Brown, Shontel M.",
+      "state": "Ohio",
+      "district": 11,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "E000071": {
+      "name": "Ellzey, Jake",
+      "state": "Texas",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001218": {
+      "name": "Stansbury, Melanie A.",
+      "state": "New Mexico",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001125": {
+      "name": "Carter, Troy A.",
+      "state": "Louisiana",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "L000595": {
+      "name": "Letlow, Julia",
+      "state": "Louisiana",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "W000788": {
+      "name": "Williams, Nikema",
+      "state": "Georgia",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "V000134": {
+      "name": "Van Duyne, Beth",
+      "state": "Texas",
+      "district": 24,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "T000486": {
+      "name": "Torres, Ritchie",
+      "state": "New York",
+      "district": 15,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001159": {
+      "name": "Strickland, Marilyn",
+      "state": "Washington",
+      "district": 10,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:34:00-04:00",
+        "vote_number": 221,
+        "description": "Failed",
+        "position": "Nay"
+      }
+    },
+    "S000929": {
+      "name": "Spartz, Victoria",
+      "state": "Indiana",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S000168": {
+      "name": "Salazar, Maria Elvira",
+      "state": "Florida",
+      "district": 27,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "R000305": {
+      "name": "Ross, Deborah K.",
+      "state": "North Carolina",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "P000048": {
+      "name": "Pfluger, August",
+      "state": "Texas",
+      "district": 11,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "O000086": {
+      "name": "Owens, Burgess",
+      "state": "Utah",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "N000026": {
+      "name": "Nehls, Troy E.",
+      "state": "Texas",
+      "district": 22,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001214": {
+      "name": "Mrvan, Frank J.",
+      "state": "Indiana",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001213": {
+      "name": "Moore, Blake D.",
+      "state": "Utah",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001211": {
+      "name": "Miller, Mary E.",
+      "state": "Illinois",
+      "district": 15,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M000871": {
+      "name": "Mann, Tracey",
+      "state": "Kansas",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M000317": {
+      "name": "Malliotakis, Nicole",
+      "state": "New York",
+      "district": 11,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M000194": {
+      "name": "Mace, Nancy",
+      "state": "South Carolina",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-04T18:08:00-04:00",
+        "vote_number": 205,
+        "description": "HR 8646 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000273": {
+      "name": "Leger Fernandez, Teresa",
+      "state": "New Mexico",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "J000304": {
+      "name": "Jackson, Ronny",
+      "state": "Texas",
+      "district": 13,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001086": {
+      "name": "Harshbarger, Diana",
+      "state": "Tennessee",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000597": {
+      "name": "Garbarino, Andrew R.",
+      "state": "New York",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000471": {
+      "name": "Fitzgerald, Scott",
+      "state": "Wisconsin",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000470": {
+      "name": "Fischbach, Michelle",
+      "state": "Minnesota",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000446": {
+      "name": "Feenstra, Randy",
+      "state": "Iowa",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000246": {
+      "name": "Fallon, Pat",
+      "state": "Texas",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "D000032": {
+      "name": "Donalds, Byron",
+      "state": "Florida",
+      "district": 19,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-10T16:32:00-04:00",
+        "vote_number": 220,
+        "description": "HR 8464 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001116": {
+      "name": "Clyde, Andrew S.",
+      "state": "Georgia",
+      "district": 9,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001039": {
+      "name": "Cammack, Kat",
+      "state": "Florida",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B000740": {
+      "name": "Bice, Stephanie I.",
+      "state": "Oklahoma",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B000668": {
+      "name": "Bentz, Cliff",
+      "state": "Oregon",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "A000148": {
+      "name": "Auchincloss, Jake",
+      "state": "Massachusetts",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "T000165": {
+      "name": "Tiffany, Thomas P.",
+      "state": "Wisconsin",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001210": {
+      "name": "Murphy, Gregory F.",
+      "state": "North Carolina",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "V000133": {
+      "name": "Van Drew, Jefferson",
+      "state": "New Jersey",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001090": {
+      "name": "Harder, Josh",
+      "state": "California",
+      "district": 9,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001211": {
+      "name": "Stanton, Greg",
+      "state": "Arizona",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "P000613": {
+      "name": "Panetta, Jimmy",
+      "state": "California",
+      "district": 19,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "D000623": {
+      "name": "DeSaulnier, Mark",
+      "state": "California",
+      "district": 10,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001287": {
+      "name": "Bera, Ami",
+      "state": "California",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000559": {
+      "name": "Garamendi, John",
+      "state": "California",
+      "district": 8,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001183": {
+      "name": "Schweikert, David",
+      "state": "Arizona",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000565": {
+      "name": "Gosar, Paul A.",
+      "state": "Arizona",
+      "district": 9,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001177": {
+      "name": "McClintock, Tom",
+      "state": "California",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001163": {
+      "name": "Matsui, Doris O.",
+      "state": "California",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "P000197": {
+      "name": "Pelosi, Nancy",
+      "state": "California",
+      "district": 11,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "T000460": {
+      "name": "Thompson, Mike",
+      "state": "California",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S000250": {
+      "name": "Sessions, Pete",
+      "state": "Texas",
+      "district": 17,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M000687": {
+      "name": "Mfume, Kweisi",
+      "state": "Maryland",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Present"
+      }
+    },
+    "L000397": {
+      "name": "Lofgren, Zoe",
+      "state": "California",
+      "district": 18,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000592": {
+      "name": "Golden, Jared F.",
+      "state": "Maine",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001213": {
+      "name": "Steil, Bryan",
+      "state": "Wisconsin",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001216": {
+      "name": "Schrier, Kim",
+      "state": "Washington",
+      "district": 8,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001118": {
+      "name": "Cline, Ben",
+      "state": "Virginia",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000587": {
+      "name": "Garcia, Sylvia R.",
+      "state": "Texas",
+      "district": 29,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "R000614": {
+      "name": "Roy, Chip",
+      "state": "Texas",
+      "district": 21,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "E000299": {
+      "name": "Escobar, Veronica",
+      "state": "Texas",
+      "district": 16,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "F000468": {
+      "name": "Fletcher, Lizzie",
+      "state": "Texas",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000589": {
+      "name": "Gooden, Lance",
+      "state": "Texas",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001120": {
+      "name": "Crenshaw, Dan",
+      "state": "Texas",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "R000612": {
+      "name": "Rose, John W.",
+      "state": "Tennessee",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001309": {
+      "name": "Burchett, Tim",
+      "state": "Tennessee",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "J000301": {
+      "name": "Johnson, Dusty",
+      "state": "South Dakota",
+      "district": 0,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "T000480": {
+      "name": "Timmons, William R.",
+      "state": "South Carolina",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "R000610": {
+      "name": "Reschenthaler, Guy",
+      "state": "Pennsylvania",
+      "district": 14,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "J000302": {
+      "name": "Joyce, John",
+      "state": "Pennsylvania",
+      "district": 13,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001204": {
+      "name": "Meuser, Daniel",
+      "state": "Pennsylvania",
+      "district": 9,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001085": {
+      "name": "Houlahan, Chrissy",
+      "state": "Pennsylvania",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "D000631": {
+      "name": "Dean, Madeleine",
+      "state": "Pennsylvania",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "O000172": {
+      "name": "Ocasio-Cortez, Alexandria",
+      "state": "New York",
+      "district": 14,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "L000590": {
+      "name": "Lee, Susie",
+      "state": "Nevada",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "P000614": {
+      "name": "Pappas, Chris",
+      "state": "New Hampshire",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000591": {
+      "name": "Guest, Michael",
+      "state": "Mississippi",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001212": {
+      "name": "Stauber, Pete",
+      "state": "Minnesota",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "O000173": {
+      "name": "Omar, Ilhan",
+      "state": "Minnesota",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001119": {
+      "name": "Craig, Angie",
+      "state": "Minnesota",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001215": {
+      "name": "Stevens, Haley M.",
+      "state": "Michigan",
+      "district": 11,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "P000617": {
+      "name": "Pressley, Ayanna",
+      "state": "Massachusetts",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "T000482": {
+      "name": "Trahan, Lori",
+      "state": "Massachusetts",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "D000629": {
+      "name": "Davids, Sharice",
+      "state": "Kansas",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001307": {
+      "name": "Baird, James R.",
+      "state": "Indiana",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "U000040": {
+      "name": "Underwood, Lauren",
+      "state": "Illinois",
+      "district": 14,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001117": {
+      "name": "Casten, Sean",
+      "state": "Illinois",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000586": {
+      "name": "Garc\u00eda, Jes\u00fas G. \"Chuy\"",
+      "state": "Illinois",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "F000469": {
+      "name": "Fulcher, Russ",
+      "state": "Idaho",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001214": {
+      "name": "Steube, W. Gregory",
+      "state": "Florida",
+      "district": 17,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001081": {
+      "name": "Hayes, Jahana",
+      "state": "Connecticut",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001121": {
+      "name": "Crow, Jason",
+      "state": "Colorado",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "N000191": {
+      "name": "Neguse, Joe",
+      "state": "Colorado",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "L000593": {
+      "name": "Levin, Mike",
+      "state": "California",
+      "district": 49,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "H001082": {
+      "name": "Hern, Kevin",
+      "state": "Oklahoma",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001206": {
+      "name": "Morelle, Joseph D.",
+      "state": "New York",
+      "district": 25,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001306": {
+      "name": "Balderson, Troy",
+      "state": "Ohio",
+      "district": 12,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001115": {
+      "name": "Cloud, Michael",
+      "state": "Texas",
+      "district": 27,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000585": {
+      "name": "Gomez, Jimmy",
+      "state": "California",
+      "district": 34,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "N000190": {
+      "name": "Norman, Ralph",
+      "state": "South Carolina",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-05-21T18:20:00-04:00",
+        "vote_number": 191,
+        "description": "HR 6047 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "E000298": {
+      "name": "Estes, Ron",
+      "state": "Kansas",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "J000298": {
+      "name": "Jayapal, Pramila",
+      "state": "Washington",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001199": {
+      "name": "Smucker, Lloyd",
+      "state": "Pennsylvania",
+      "district": 11,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000466": {
+      "name": "Fitzpatrick, Brian K.",
+      "state": "Pennsylvania",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "E000296": {
+      "name": "Evans, Dwight",
+      "state": "Pennsylvania",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001296": {
+      "name": "Boyle, Brendan F.",
+      "state": "Pennsylvania",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "P000605": {
+      "name": "Perry, Scott",
+      "state": "Pennsylvania",
+      "district": 10,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001066": {
+      "name": "Horsford, Steven",
+      "state": "Nevada",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000376": {
+      "name": "Kelly, Mike",
+      "state": "Pennsylvania",
+      "district": 16,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "T000467": {
+      "name": "Thompson, Glenn",
+      "state": "Pennsylvania",
+      "district": 15,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001055": {
+      "name": "Case, Ed",
+      "state": "Hawaii",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "W000831": {
+      "name": "Walkinshaw, James R.",
+      "state": "Virginia",
+      "district": 11,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001241": {
+      "name": "Min, Dave",
+      "state": "California",
+      "district": 47,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "H001100": {
+      "name": "Hurd, Jeff",
+      "state": "Colorado",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "A000375": {
+      "name": "Arrington, Jodey C.",
+      "state": "Texas",
+      "district": 19,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000392": {
+      "name": "Kustoff, David",
+      "state": "Tennessee",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "E000297": {
+      "name": "Espaillat, Adriano",
+      "state": "New York",
+      "district": 13,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000583": {
+      "name": "Gottheimer, Josh",
+      "state": "New Jersey",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001298": {
+      "name": "Bacon, Don",
+      "state": "Nebraska",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001301": {
+      "name": "Bergman, Jack",
+      "state": "Michigan",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "R000606": {
+      "name": "Raskin, Jamie",
+      "state": "Maryland",
+      "district": 8,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "J000299": {
+      "name": "Johnson, Mike",
+      "state": "Louisiana",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001077": {
+      "name": "Higgins, Clay",
+      "state": "Louisiana",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000391": {
+      "name": "Krishnamoorthi, Raja",
+      "state": "Illinois",
+      "district": 8,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001200": {
+      "name": "Soto, Darren",
+      "state": "Florida",
+      "district": 9,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "D000628": {
+      "name": "Dunn, Neal P.",
+      "state": "Florida",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001110": {
+      "name": "Correa, J. Luis",
+      "state": "California",
+      "district": 46,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001300": {
+      "name": "Barrag\u00e1n, Nanette Diaz",
+      "state": "California",
+      "district": 44,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001112": {
+      "name": "Carbajal, Salud O.",
+      "state": "California",
+      "district": 24,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001302": {
+      "name": "Biggs, Andy",
+      "state": "Arizona",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000389": {
+      "name": "Khanna, Ro",
+      "state": "California",
+      "district": 17,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001108": {
+      "name": "Comer, James",
+      "state": "Kentucky",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "D000626": {
+      "name": "Davidson, Warren",
+      "state": "Ohio",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000388": {
+      "name": "Kelly, Trent",
+      "state": "Mississippi",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000576": {
+      "name": "Grothman, Glenn",
+      "state": "Wisconsin",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "N000189": {
+      "name": "Newhouse, Dan",
+      "state": "Washington",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "P000610": {
+      "name": "Plaskett, Stacey E.",
+      "state": "Virgin Islands",
+      "district": 0,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-01-22T16:51:00-05:00",
+        "vote_number": 44,
+        "description": "Failed",
+        "position": "No"
+      }
+    },
+    "B001292": {
+      "name": "Beyer, Donald S.",
+      "state": "Virginia",
+      "district": 8,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001291": {
+      "name": "Babin, Brian",
+      "state": "Texas",
+      "district": 36,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001196": {
+      "name": "Stefanik, Elise M.",
+      "state": "New York",
+      "district": 21,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "W000822": {
+      "name": "Watson Coleman, Bonnie",
+      "state": "New Jersey",
+      "district": 12,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "R000603": {
+      "name": "Rouzer, David",
+      "state": "North Carolina",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "E000294": {
+      "name": "Emmer, Tom",
+      "state": "Minnesota",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001196": {
+      "name": "Moulton, Seth",
+      "state": "Massachusetts",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001295": {
+      "name": "Bost, Mike",
+      "state": "Illinois",
+      "district": 12,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "A000372": {
+      "name": "Allen, Rick W.",
+      "state": "Georgia",
+      "district": 12,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000583": {
+      "name": "Loudermilk, Barry",
+      "state": "Georgia",
+      "district": 11,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001103": {
+      "name": "Carter, Earl L. \"Buddy\"",
+      "state": "Georgia",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "T000474": {
+      "name": "Torres, Norma J.",
+      "state": "California",
+      "district": 35,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "W000821": {
+      "name": "Westerman, Bruce",
+      "state": "Arkansas",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001072": {
+      "name": "Hill, J. French",
+      "state": "Arkansas",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "R000600": {
+      "name": "Radewagen, Aumua Amata Coleman",
+      "state": "American Samoa",
+      "district": 0,
+      "party": "R",
+      "last_vote": null
+    },
+    "P000609": {
+      "name": "Palmer, Gary J.",
+      "state": "Alabama",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "N000188": {
+      "name": "Norcross, Donald",
+      "state": "New Jersey",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:34:00-04:00",
+        "vote_number": 221,
+        "description": "Failed",
+        "position": "Nay"
+      }
+    },
+    "A000370": {
+      "name": "Adams, Alma S.",
+      "state": "North Carolina",
+      "district": 12,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001101": {
+      "name": "Clark, Katherine M.",
+      "state": "Massachusetts",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001195": {
+      "name": "Smith, Jason",
+      "state": "Missouri",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001282": {
+      "name": "Barr, Andy",
+      "state": "Kentucky",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001190": {
+      "name": "Schneider, Bradley Scott",
+      "state": "Illinois",
+      "district": 10,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "K000375": {
+      "name": "Keating, William R.",
+      "state": "Massachusetts",
+      "district": 9,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:34:00-04:00",
+        "vote_number": 221,
+        "description": "Failed",
+        "position": "Nay"
+      }
+    },
+    "W000806": {
+      "name": "Webster, Daniel",
+      "state": "Florida",
+      "district": 11,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001067": {
+      "name": "Clarke, Yvette D.",
+      "state": "New York",
+      "district": 9,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-10T16:32:00-04:00",
+        "vote_number": 220,
+        "description": "HR 8464 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "T000469": {
+      "name": "Tonko, Paul",
+      "state": "New York",
+      "district": 20,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "T000468": {
+      "name": "Titus, Dina",
+      "state": "Nevada",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "K000385": {
+      "name": "Kelly, Robin L.",
+      "state": "Illinois",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001137": {
+      "name": "Meeks, Gregory W.",
+      "state": "New York",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M000312": {
+      "name": "McGovern, James P.",
+      "state": "Massachusetts",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "V000081": {
+      "name": "Vel\u00e1zquez, Nydia M.",
+      "state": "New York",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "T000463": {
+      "name": "Turner, Michael R.",
+      "state": "Ohio",
+      "district": 10,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-10T16:32:00-04:00",
+        "vote_number": 220,
+        "description": "HR 8464 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000562": {
+      "name": "Lynch, Stephen F.",
+      "state": "Massachusetts",
+      "district": 8,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "W000830": {
+      "name": "Whitesides, George",
+      "state": "California",
+      "district": 27,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "T000491": {
+      "name": "Tran, Derek",
+      "state": "California",
+      "district": 45,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "R000620": {
+      "name": "Rivas, Luz M.",
+      "state": "California",
+      "district": 29,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "P000607": {
+      "name": "Pocan, Mark",
+      "state": "Wisconsin",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "V000131": {
+      "name": "Veasey, Marc A.",
+      "state": "Texas",
+      "district": 33,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "W000816": {
+      "name": "Williams, Roger",
+      "state": "Texas",
+      "district": 25,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001091": {
+      "name": "Castro, Joaquin",
+      "state": "Texas",
+      "district": 20,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "W000814": {
+      "name": "Weber, Randy K. Sr.",
+      "state": "Texas",
+      "district": 14,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "J000295": {
+      "name": "Joyce, David P.",
+      "state": "Ohio",
+      "district": 14,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001281": {
+      "name": "Beatty, Joyce",
+      "state": "Ohio",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "J000294": {
+      "name": "Jeffries, Hakeem S.",
+      "state": "New York",
+      "district": 8,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001188": {
+      "name": "Meng, Grace",
+      "state": "New York",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "W000812": {
+      "name": "Wagner, Ann",
+      "state": "Missouri",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001285": {
+      "name": "Brownley, Julia",
+      "state": "California",
+      "district": 26,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "H001068": {
+      "name": "Huffman, Jared",
+      "state": "California",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "D000617": {
+      "name": "DelBene, Suzan K.",
+      "state": "Washington",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001184": {
+      "name": "Massie, Thomas",
+      "state": "Kentucky",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001278": {
+      "name": "Bonamici, Suzanne",
+      "state": "Oregon",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "A000369": {
+      "name": "Amodei, Mark E.",
+      "state": "Nevada",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "W000804": {
+      "name": "Wittman, Robert J.",
+      "state": "Virginia",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000566": {
+      "name": "Latta, Robert E.",
+      "state": "Ohio",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000568": {
+      "name": "Griffith, H. Morgan",
+      "state": "Virginia",
+      "district": 9,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "D000616": {
+      "name": "DesJarlais, Scott",
+      "state": "Tennessee",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000459": {
+      "name": "Fleischmann, Charles J. \"Chuck\"",
+      "state": "Tennessee",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001052": {
+      "name": "Harris, Andy",
+      "state": "Maryland",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001189": {
+      "name": "Scott, Austin",
+      "state": "Georgia",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "W000808": {
+      "name": "Wilson, Frederica S.",
+      "state": "Florida",
+      "district": 24,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "W000809": {
+      "name": "Womack, Steve",
+      "state": "Arkansas",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001087": {
+      "name": "Crawford, Eric A. \"Rick\"",
+      "state": "Arkansas",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001185": {
+      "name": "Sewell, Terri A.",
+      "state": "Alabama",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001068": {
+      "name": "Cohen, Steve",
+      "state": "Tennessee",
+      "district": 9,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-09T19:05:00-04:00",
+        "vote_number": 216,
+        "description": "HR 5408 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "J000289": {
+      "name": "Jordan, Jim",
+      "state": "Ohio",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001172": {
+      "name": "Smith, Adrian",
+      "state": "Nebraska",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "J000288": {
+      "name": "Johnson, Henry C. \"Hank\"",
+      "state": "Georgia",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001260": {
+      "name": "Buchanan, Vern",
+      "state": "Florida",
+      "district": 16,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001066": {
+      "name": "Castor, Kathy",
+      "state": "Florida",
+      "district": 14,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001257": {
+      "name": "Bilirakis, Gus M.",
+      "state": "Florida",
+      "district": 12,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001069": {
+      "name": "Courtney, Joe",
+      "state": "Connecticut",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "Q000023": {
+      "name": "Quigley, Mike",
+      "state": "Illinois",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-10T16:32:00-04:00",
+        "vote_number": 220,
+        "description": "HR 8464 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "P000597": {
+      "name": "Pingree, Chellie",
+      "state": "Maine",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000558": {
+      "name": "Guthrie, Brett",
+      "state": "Kentucky",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001047": {
+      "name": "Himes, James A.",
+      "state": "Connecticut",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001176": {
+      "name": "Scalise, Steve",
+      "state": "Louisiana",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000454": {
+      "name": "Foster, Bill",
+      "state": "Illinois",
+      "district": 11,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001072": {
+      "name": "Carson, Andr\u00e9",
+      "state": "Indiana",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "W000187": {
+      "name": "Waters, Maxine",
+      "state": "California",
+      "district": 43,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S000185": {
+      "name": "Scott, Robert C. \"Bobby\"",
+      "state": "Virginia",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "N000015": {
+      "name": "Neal, Richard E.",
+      "state": "Massachusetts",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:34:00-04:00",
+        "vote_number": 221,
+        "description": "Failed",
+        "position": "Nay"
+      }
+    },
+    "L000491": {
+      "name": "Lucas, Frank D.",
+      "state": "Oklahoma",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "N000147": {
+      "name": "Norton, Eleanor Holmes",
+      "state": "District of Columbia",
+      "district": 0,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-05-15T10:08:00-04:00",
+        "vote_number": 174,
+        "description": "Failed",
+        "position": "No"
+      }
+    },
+    "M001160": {
+      "name": "Moore, Gwen",
+      "state": "Wisconsin",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001063": {
+      "name": "Cuellar, Henry",
+      "state": "Texas",
+      "district": 28,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001157": {
+      "name": "McCaul, Michael T.",
+      "state": "Texas",
+      "district": 10,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000450": {
+      "name": "Foxx, Virginia",
+      "state": "North Carolina",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C001061": {
+      "name": "Cleaver, Emanuel",
+      "state": "Missouri",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001053": {
+      "name": "Cole, Tom",
+      "state": "Oklahoma",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001156": {
+      "name": "S\u00e1nchez, Linda T.",
+      "state": "California",
+      "district": 38,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "M001143": {
+      "name": "McCollum, Betty",
+      "state": "Minnesota",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001231": {
+      "name": "Simon, Lateefah",
+      "state": "California",
+      "district": 12,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "R000621": {
+      "name": "Randall, Emily",
+      "state": "Washington",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "L000607": {
+      "name": "Liccardo, Sam T.",
+      "state": "California",
+      "district": 16,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "H001098": {
+      "name": "Hamadeh, Abraham J.",
+      "state": "Arizona",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000605": {
+      "name": "Gray, Adam",
+      "state": "California",
+      "district": 13,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001323": {
+      "name": "Begich, Nicholas J.",
+      "state": "Alaska",
+      "district": 0,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "A000381": {
+      "name": "Ansari, Yassamin",
+      "state": "Arizona",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "P000034": {
+      "name": "Pallone, Frank",
+      "state": "New Jersey",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S001148": {
+      "name": "Simpson, Michael K.",
+      "state": "Idaho",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S001145": {
+      "name": "Schakowsky, Janice D.",
+      "state": "Illinois",
+      "district": 9,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "L000557": {
+      "name": "Larson, John B.",
+      "state": "Connecticut",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S000510": {
+      "name": "Smith, Adam",
+      "state": "Washington",
+      "district": 9,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "D000197": {
+      "name": "DeGette, Diana",
+      "state": "Colorado",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "D000096": {
+      "name": "Davis, Danny K.",
+      "state": "Illinois",
+      "district": 7,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "A000055": {
+      "name": "Aderholt, Robert B.",
+      "state": "Alabama",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "T000193": {
+      "name": "Thompson, Bennie G.",
+      "state": "Mississippi",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "S000522": {
+      "name": "Smith, Christopher H.",
+      "state": "New Jersey",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "R000395": {
+      "name": "Rogers, Harold",
+      "state": "Kentucky",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B000490": {
+      "name": "Bishop, Sanford D.",
+      "state": "Georgia",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "C001051": {
+      "name": "Carter, John R.",
+      "state": "Texas",
+      "district": 31,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "R000575": {
+      "name": "Rogers, Mike D.",
+      "state": "Alabama",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "W000795": {
+      "name": "Wilson, Joe",
+      "state": "South Carolina",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "L000560": {
+      "name": "Larsen, Rick",
+      "state": "Washington",
+      "district": 2,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000546": {
+      "name": "Graves, Sam",
+      "state": "Missouri",
+      "district": 6,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "C000537": {
+      "name": "Clyburn, James E.",
+      "state": "South Carolina",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "D000216": {
+      "name": "DeLauro, Rosa L.",
+      "state": "Connecticut",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "K000009": {
+      "name": "Kaptur, Marcy",
+      "state": "Ohio",
+      "district": 9,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H000874": {
+      "name": "Hoyer, Steny H.",
+      "state": "Maryland",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "V000139": {
+      "name": "Van Epps, Matt",
+      "state": "Tennessee",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001246": {
+      "name": "Mejia, Analilia",
+      "state": "New Jersey",
+      "district": 11,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "B001324": {
+      "name": "Bell, Wesley",
+      "state": "Missouri",
+      "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "H001093": {
+      "name": "Houchin, Erin",
+      "state": "Indiana",
+      "district": 9,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000485": {
+      "name": "Fuller, Clay",
+      "state": "Georgia",
+      "district": 14,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001218": {
+      "name": "McCormick, Richard",
+      "state": "Georgia",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001208": {
+      "name": "McBath, Lucy",
+      "state": "Georgia",
+      "district": 6,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "G000607": {
+      "name": "Gallagher, James",
+      "state": "California",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B000825": {
+      "name": "Boebert, Lauren",
+      "state": "Colorado",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001212": {
+      "name": "Moore, Barry",
+      "state": "Alabama",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-06-11T10:44:00-04:00",
+        "vote_number": 222,
+        "description": "HRES 1335 \u2014 Passed",
+        "position": "Yea"
+      }
+    }
+  }
+}
