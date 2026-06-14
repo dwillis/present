@@ -20,7 +20,9 @@ jobs:
         env:
           CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update vote data"
-          file_pattern: "data/members.json"
+      - name: Commit and push if data changed
+        run: |
+          git add data/members.json
+          git diff --staged --quiet || git commit -m "Update vote data"
+          git pull --rebase origin main
+          git push
