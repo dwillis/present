@@ -87,6 +87,21 @@ def main():
 
     print(f"Newest previously recorded vote: {newest_recorded_vote}")
 
+    # Quick check: fetch just the most recent vote to see if anything is new
+    if existing and newest_recorded_vote > 0:
+        resp = client.house_votes(congress, session, limit=1, offset=0)
+        latest_batch = resp.get("houseRollCallVotes", [])
+        if latest_batch:
+            current_latest = latest_batch[0].get("rollCallNumber", 0)
+            if current_latest <= newest_recorded_vote:
+                existing["updated_at"] = datetime.now(timezone.utc).isoformat()
+                with open(MEMBERS_FILE, "w") as f:
+                    json.dump(existing, f, indent=2)
+                print(f"No new votes (latest is still {current_latest}). Updated timestamp only.")
+                return
+            print(f"New votes found: {current_latest} > {newest_recorded_vote}")
+        time.sleep(0.5)
+
     print("Fetching current House members...")
     current_members = fetch_current_house_members(client)
     print(f"Found {len(current_members)} House members")
