@@ -118,6 +118,22 @@ select:focus, input:focus {
   opacity: 0.9;
 }
 
+.reset-btn {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.reset-btn:hover {
+  background: var(--bg);
+  color: var(--text);
+}
+
 .leaderboard {
   padding: 1.5rem 0 1rem;
 }
@@ -172,11 +188,39 @@ select:focus, input:focus {
   color: var(--text-muted);
 }
 
+.lb-time-wrap {
+  text-align: right;
+  flex-shrink: 0;
+}
+
 .lb-time {
   font-weight: 800;
   font-size: 0.95rem;
-  text-align: right;
   white-space: nowrap;
+  display: block;
+}
+
+.lb-date {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  display: block;
+  text-decoration: none;
+}
+
+a.lb-date {
+  text-decoration: underline;
+  text-decoration-color: var(--border);
+}
+
+a.lb-date:hover {
+  color: var(--accent);
+}
+
+.lb-missed {
+  font-size: 0.75rem;
+  color: var(--orange);
+  font-weight: 600;
+  display: block;
 }
 
 .lb-time.urgency-low { color: var(--green); }
@@ -202,6 +246,53 @@ select:focus, input:focus {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 1rem;
   padding-bottom: 3rem;
+}
+
+.day-group {
+  grid-column: 1 / -1;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.day-group-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1.25rem;
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+}
+
+.day-group-summary::-webkit-details-marker {
+  display: none;
+}
+
+.day-group-summary::before {
+  content: "\25B6";
+  font-size: 0.7rem;
+  margin-right: 0.75rem;
+  color: var(--text-muted);
+  transition: transform 0.15s;
+}
+
+.day-group[open] > .day-group-summary::before {
+  transform: rotate(90deg);
+}
+
+.day-group-label {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.day-group-count {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.day-group > .members-grid {
+  padding: 0.5rem 1rem 1rem;
 }
 
 .member-card {
@@ -261,6 +352,16 @@ select:focus, input:focus {
 .vote-info {
   font-size: 0.85rem;
   color: var(--text-muted);
+}
+
+.vote-info a {
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-decoration-color: var(--border);
+}
+
+.vote-info a:hover {
+  color: var(--accent);
 }
 
 .vote-position {

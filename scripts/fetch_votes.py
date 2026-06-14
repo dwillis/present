@@ -120,7 +120,8 @@ def main():
 
     # Sort by rollCallNumber descending (newest first)
     all_votes.sort(key=lambda v: v.get("rollCallNumber", 0), reverse=True)
-    print(f"Found {len(all_votes)} total votes")
+    latest_vote_number = all_votes[0].get("rollCallNumber", 0) if all_votes else 0
+    print(f"Found {len(all_votes)} total votes (latest: {latest_vote_number})")
 
     # On incremental runs, only process votes newer than what we have
     if newest_recorded_vote > 0 and needed == set():
@@ -172,6 +173,7 @@ def main():
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "congress": congress,
         "session": session,
+        "latest_vote_number": latest_vote_number,
         "members": output_members,
     }
 

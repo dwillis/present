@@ -18,6 +18,7 @@
   };
 
   let allMembers = [];
+  let latestVoteNumber = 0;
   let zipData = null;
   let currentFilter = { state: "", zip: "" };
 
@@ -58,6 +59,12 @@
     return name;
   }
 
+  function voteUrl(lv) {
+    if (!lv || !lv.date || !lv.vote_number) return null;
+    var year = new Date(lv.date).getFullYear();
+    return "https://clerk.house.gov/Votes/" + year + lv.vote_number;
+  }
+
   function renderCard(member) {
     var card = document.createElement("div");
     card.className = "member-card party-" + member.party;
@@ -71,11 +78,15 @@
 
     var voteHtml;
     if (lv) {
+      var url = voteUrl(lv);
+      var descHtml = url
+        ? '<a href="' + url + '" target="_blank" rel="noopener">' + lv.description + '</a>'
+        : lv.description;
       voteHtml =
         '<div class="time-ago ' + urgency + '">' + timeStr + '</div>' +
         '<div class="vote-info">' +
           '<span class="vote-position">' + lv.position + '</span> ' +
-          lv.description +
+          descHtml +
         '</div>';
     } else {
       voteHtml = '<div class="no-vote">No votes recorded</div>';
@@ -133,9 +144,26 @@
     return sorted;
   }
 
+  var DELEGATE_STATES = ["American Samoa", "District of Columbia", "Guam",
+    "Northern Mariana Islands", "Puerto Rico", "Virgin Islands",
+    "U.S. Virgin Islands"];
+
+  function formatDate(dateStr) {
+    var d = new Date(dateStr);
+    return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+  }
+
   function renderLeaderboard() {
     var list = document.getElementById("leaderboard-list");
-    var sorted = allMembers.slice().sort(function (a, b) {
+    var section = document.getElementById("leaderboard");
+
+    var eligible = allMembers.filter(function (m) {
+      if (DELEGATE_STATES.indexOf(m.state) !== -1) return false;
+      var days = daysSince(m.last_vote ? m.last_vote.date : null);
+      return days >= 7;
+    });
+
+    eligible.sort(function (a, b) {
       var da = daysSince(a.last_vote ? a.last_vote.date : null);
       var db = daysSince(b.last_vote ? b.last_vote.date : null);
       if (da === Infinity && db === Infinity) return 0;
@@ -144,25 +172,46 @@
       return db - da;
     });
 
-    var top20 = sorted.slice(0, 20);
+    var top10 = eligible.slice(0, 10);
     list.innerHTML = "";
-    for (var i = 0; i < top20.length; i++) {
-      var m = top20[i];
+
+    if (top10.length === 0) {
+      section.style.display = "none";
+      return;
+    }
+    section.style.display = "";
+
+    for (var i = 0; i < top10.length; i++) {
+      var m = top10[i];
       var abbrev = STATES_ABBREV[m.state] || m.state;
       var districtLabel = m.district ? abbrev + "-" + m.district : abbrev + " (At-Large)";
       var lv = m.last_vote;
       var timeStr = lv ? timeAgo(lv.date) : "No votes";
+      var dateStr = lv ? formatDate(lv.date) : "";
       var urgency = urgencyClass(lv ? lv.date : null);
+      var url = voteUrl(lv);
 
       var li = document.createElement("li");
       li.className = "lb-item party-" + m.party;
+      var dateHtml = dateStr
+        ? (url ? '<a class="lb-date" href="' + url + '" target="_blank" rel="noopener">' + dateStr + '</a>'
+               : '<span class="lb-date">' + dateStr + '</span>')
+        : '';
+      var missed = (lv && latestVoteNumber) ? latestVoteNumber - lv.vote_number : null;
+      var missedHtml = missed !== null && missed > 0
+        ? '<span class="lb-missed">' + missed + ' vote' + (missed !== 1 ? 's' : '') + ' missed</span>'
+        : '';
       li.innerHTML =
         '<span class="lb-rank">' + (i + 1) + '</span>' +
         '<div class="lb-info">' +
           '<div class="lb-name">' + formatName(m.name) + '</div>' +
           '<div class="lb-detail">' + districtLabel + ' · ' + m.party + '</div>' +
         '</div>' +
-        '<span class="lb-time ' + urgency + '">' + timeStr + '</span>';
+        '<div class="lb-time-wrap">' +
+          '<span class="lb-time ' + urgency + '">' + timeStr + '</span>' +
+          dateHtml +
+          missedHtml +
+        '</div>';
       list.appendChild(li);
     }
   }
@@ -171,6 +220,10 @@
     var grid = document.getElementById("members-grid");
     var status = document.getElementById("status");
     var sortBy = document.getElementById("sort-select").value;
+    var resetBtn = document.getElementById("reset-btn");
+
+    var hasFilter = currentFilter.state || currentFilter.zip;
+    resetBtn.hidden = !hasFilter;
 
     var filtered = allMembers;
 
@@ -193,8 +246,45 @@
     var sorted = sortMembers(filtered, sortBy);
 
     grid.innerHTML = "";
+
+    var overWeek = [];
+    var dayBuckets = {};
     for (var i = 0; i < sorted.length; i++) {
-      grid.appendChild(renderCard(sorted[i]));
+      var m = sorted[i];
+      var d = daysSince(m.last_vote ? m.last_vote.date : null);
+      if (d >= 7) {
+        overWeek.push(m);
+      } else {
+        if (!dayBuckets[d]) dayBuckets[d] = [];
+        dayBuckets[d].push(m);
+      }
+    }
+
+    for (var j = 0; j < overWeek.length; j++) {
+      grid.appendChild(renderCard(overWeek[j]));
+    }
+
+    var dayKeys = Object.keys(dayBuckets).map(Number).sort(function (a, b) { return b - a; });
+    for (var k = 0; k < dayKeys.length; k++) {
+      var day = dayKeys[k];
+      var bucket = dayBuckets[day];
+      var label = day === 0 ? "Today" : day === 1 ? "Yesterday" : day + " days ago";
+
+      var details = document.createElement("details");
+      details.className = "day-group";
+      var summary = document.createElement("summary");
+      summary.className = "day-group-summary";
+      summary.innerHTML = '<span class="day-group-label">' + label + '</span>' +
+        '<span class="day-group-count">' + bucket.length + ' member' + (bucket.length !== 1 ? 's' : '') + '</span>';
+      details.appendChild(summary);
+
+      var innerGrid = document.createElement("div");
+      innerGrid.className = "members-grid";
+      for (var l = 0; l < bucket.length; l++) {
+        innerGrid.appendChild(renderCard(bucket[l]));
+      }
+      details.appendChild(innerGrid);
+      grid.appendChild(details);
     }
 
     if (currentFilter.zip && filtered.length === 0) {
@@ -246,11 +336,13 @@
         });
       }
 
+      latestVoteNumber = data.latest_vote_number || 0;
       allMembers = [];
       var members = data.members;
       for (var id in members) {
         if (members.hasOwnProperty(id)) {
           var m = members[id];
+          if (DELEGATE_STATES.indexOf(m.state) !== -1) continue;
           m.bioguideId = id;
           allMembers.push(m);
         }
@@ -268,6 +360,15 @@
       });
 
       document.getElementById("sort-select").addEventListener("change", function () {
+        render();
+      });
+
+      document.getElementById("reset-btn").addEventListener("click", function () {
+        currentFilter.state = "";
+        currentFilter.zip = "";
+        document.getElementById("state-select").value = "";
+        document.getElementById("zip-input").value = "";
+        document.getElementById("sort-select").value = "absence";
         render();
       });
 
