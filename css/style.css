@@ -54,6 +54,13 @@ header h1 {
   margin-top: 0.25rem;
 }
 
+.intro {
+  padding: 1.5rem 0 0;
+  font-size: 1rem;
+  color: var(--text-muted);
+  max-width: 640px;
+}
+
 .controls {
   display: flex;
   gap: 1rem;

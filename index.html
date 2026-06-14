@@ -4,6 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Present — House Vote Tracker</title>
+  <meta name="description" content="Track how long it's been since your U.S. House representative cast a roll call vote.">
+  <meta property="og:title" content="Present — House Vote Tracker">
+  <meta property="og:description" content="Track how long it's been since your U.S. House representative cast a roll call vote.">
+  <meta property="og:image" content="https://thescoop.org/present/share_img.png">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Present — House Vote Tracker">
+  <meta name="twitter:description" content="Track how long it's been since your U.S. House representative cast a roll call vote.">
+  <meta name="twitter:image" content="https://thescoop.org/present/share_img.png">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -15,6 +24,8 @@
   </header>
 
   <main class="container">
+    <p class="intro">Every roll call vote in the U.S. House is recorded. This site tracks how long it's been since each member last voted. Search by state or zip code to find your representative.</p>
+
     <div class="controls">
       <div class="control-group">
         <label for="state-select">State</label>
@@ -57,9 +68,10 @@
 
   <footer>
     <div class="container">
+      <p>By <a href="https://thescoop.org" target="_blank" rel="noopener">Derek Willis</a>.
+        <a href="https://github.com/dwillis/present" target="_blank" rel="noopener">Source code</a>.</p>
       <p>Data from <a href="https://api.congress.gov/" target="_blank" rel="noopener">Congress.gov API</a>.
         Updated <span id="updated-at"></span>.</p>
-      <p>Tracks the most recent roll call vote cast by each U.S. House member.</p>
     </div>
   </footer>
 

@@ -225,6 +225,14 @@
     var hasFilter = currentFilter.state || currentFilter.zip;
     resetBtn.hidden = !hasFilter;
 
+    var leaderboard = document.getElementById("leaderboard");
+    if (hasFilter) {
+      leaderboard.style.display = "none";
+    } else {
+      leaderboard.style.display = "";
+      renderLeaderboard();
+    }
+
     var filtered = allMembers;
 
     if (currentFilter.zip && zipData) {
@@ -272,6 +280,7 @@
 
       var details = document.createElement("details");
       details.className = "day-group";
+      if (hasFilter) details.open = true;
       var summary = document.createElement("summary");
       summary.className = "day-group-summary";
       summary.innerHTML = '<span class="day-group-label">' + label + '</span>' +
