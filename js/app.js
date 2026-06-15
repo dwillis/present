@@ -20,7 +20,7 @@
   let allMembers = [];
   let latestVoteNumber = 0;
   let zipData = null;
-  let currentFilter = { state: "", zip: "" };
+  let currentFilter = { state: "", zip: "", name: "" };
 
   function timeAgo(dateStr) {
     if (!dateStr) return null;
@@ -222,7 +222,7 @@
     var sortBy = document.getElementById("sort-select").value;
     var resetBtn = document.getElementById("reset-btn");
 
-    var hasFilter = currentFilter.state || currentFilter.zip;
+    var hasFilter = currentFilter.state || currentFilter.zip || currentFilter.name;
     resetBtn.hidden = !hasFilter;
 
     var leaderboard = document.getElementById("leaderboard");
@@ -248,6 +248,13 @@
     } else if (currentFilter.state) {
       filtered = allMembers.filter(function (m) {
         return m.state === currentFilter.state;
+      });
+    }
+
+    if (currentFilter.name) {
+      var q = currentFilter.name.toLowerCase();
+      filtered = filtered.filter(function (m) {
+        return formatName(m.name).toLowerCase().indexOf(q) !== -1;
       });
     }
 
@@ -361,6 +368,11 @@
       renderLeaderboard();
       render();
 
+      document.getElementById("name-input").addEventListener("input", function () {
+        currentFilter.name = this.value.trim();
+        render();
+      });
+
       document.getElementById("state-select").addEventListener("change", function () {
         currentFilter.state = this.value;
         currentFilter.zip = "";
@@ -375,6 +387,8 @@
       document.getElementById("reset-btn").addEventListener("click", function () {
         currentFilter.state = "";
         currentFilter.zip = "";
+        currentFilter.name = "";
+        document.getElementById("name-input").value = "";
         document.getElementById("state-select").value = "";
         document.getElementById("zip-input").value = "";
         document.getElementById("sort-select").value = "absence";
