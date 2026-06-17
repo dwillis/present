@@ -7,6 +7,7 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
+import httpx
 from pycongress import Client, CURRENT_CONGRESS
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
@@ -70,7 +71,7 @@ def build_vote_description(vote):
 
 
 def main():
-    client = Client()
+    client = Client(timeout=60.0)
     congress = CURRENT_CONGRESS
     session = get_session()
 
@@ -89,18 +90,21 @@ def main():
 
     # Quick check: fetch just the most recent vote to see if anything is new
     if existing and newest_recorded_vote > 0:
-        resp = client.house_votes(congress, session, limit=1, offset=0)
-        latest_batch = resp.get("houseRollCallVotes", [])
-        if latest_batch:
-            current_latest = latest_batch[0].get("rollCallNumber", 0)
-            if current_latest <= newest_recorded_vote:
-                existing["updated_at"] = datetime.now(timezone.utc).isoformat()
-                with open(MEMBERS_FILE, "w") as f:
-                    json.dump(existing, f, indent=2)
-                print(f"No new votes (latest is still {current_latest}). Updated timestamp only.")
-                return
-            print(f"New votes found: {current_latest} > {newest_recorded_vote}")
-        time.sleep(0.5)
+        try:
+            resp = client.house_votes(congress, session, limit=1, offset=0)
+            latest_batch = resp.get("houseRollCallVotes", [])
+            if latest_batch:
+                current_latest = latest_batch[0].get("rollCallNumber", 0)
+                if current_latest <= newest_recorded_vote:
+                    existing["updated_at"] = datetime.now(timezone.utc).isoformat()
+                    with open(MEMBERS_FILE, "w") as f:
+                        json.dump(existing, f, indent=2)
+                    print(f"No new votes (latest is still {current_latest}). Updated timestamp only.")
+                    return
+                print(f"New votes found: {current_latest} > {newest_recorded_vote}")
+            time.sleep(0.5)
+        except httpx.TimeoutException:
+            print("Quick check timed out; proceeding with full fetch.")
 
     print("Fetching current House members...")
     current_members = fetch_current_house_members(client)
