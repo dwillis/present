@@ -10,7 +10,7 @@ A GitHub Actions workflow runs the script daily to keep the data fresh.
 
 ## Features
 
-- Leaderboard of the 20 members with the longest voting absences
+- Leaderboard of the 10 members with the longest voting absences
 - Filter by state or zip code
 - Sort by absence length, recency, name, or state
 - Color-coded urgency indicators based on how long since a member voted

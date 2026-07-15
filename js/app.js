@@ -19,8 +19,27 @@
 
   let allMembers = [];
   let latestVoteNumber = 0;
+  let dataCongress = null;
+  let dataSession = null;
   let zipData = null;
   let currentFilter = { state: "", zip: "", name: "" };
+
+  function esc(s) {
+    return String(s)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+
+  // Roll call numbers reset each session, so a missed-vote count only makes
+  // sense when the member's last vote is from the current congress/session.
+  // Entries written before those fields existed are assumed current.
+  function missedVotes(lv) {
+    if (!lv || !latestVoteNumber) return null;
+    if (lv.session != null && (lv.congress !== dataCongress || lv.session !== dataSession)) return null;
+    return latestVoteNumber - lv.vote_number;
+  }
 
   function timeAgo(dateStr) {
     if (!dateStr) return null;
@@ -80,12 +99,12 @@
     if (lv) {
       var url = voteUrl(lv);
       var descHtml = url
-        ? '<a href="' + url + '" target="_blank" rel="noopener">' + lv.description + '</a>'
-        : lv.description;
+        ? '<a href="' + url + '" target="_blank" rel="noopener">' + esc(lv.description) + '</a>'
+        : esc(lv.description);
       voteHtml =
         '<div class="time-ago ' + urgency + '">' + timeStr + '</div>' +
         '<div class="vote-info">' +
-          '<span class="vote-position">' + lv.position + '</span> ' +
+          '<span class="vote-position">' + esc(lv.position) + '</span> ' +
           descHtml +
         '</div>';
     } else {
@@ -95,10 +114,10 @@
     card.innerHTML =
       '<div class="member-header">' +
         '<div>' +
-          '<div class="member-name">' + formatName(member.name) + '</div>' +
-          '<div class="member-detail">' + districtLabel + '</div>' +
+          '<div class="member-name">' + esc(formatName(member.name)) + '</div>' +
+          '<div class="member-detail">' + esc(districtLabel) + '</div>' +
         '</div>' +
-        '<span class="member-party party-' + member.party + '">' + member.party + '</span>' +
+        '<span class="member-party party-' + esc(member.party) + '">' + esc(member.party) + '</span>' +
       '</div>' +
       voteHtml;
 
@@ -197,15 +216,15 @@
         ? (url ? '<a class="lb-date" href="' + url + '" target="_blank" rel="noopener">' + dateStr + '</a>'
                : '<span class="lb-date">' + dateStr + '</span>')
         : '';
-      var missed = (lv && latestVoteNumber) ? latestVoteNumber - lv.vote_number : null;
+      var missed = missedVotes(lv);
       var missedHtml = missed !== null && missed > 0
         ? '<span class="lb-missed">' + missed + ' vote' + (missed !== 1 ? 's' : '') + ' missed</span>'
         : '';
       li.innerHTML =
         '<span class="lb-rank">' + (i + 1) + '</span>' +
         '<div class="lb-info">' +
-          '<div class="lb-name">' + formatName(m.name) + '</div>' +
-          '<div class="lb-detail">' + districtLabel + ' · ' + m.party + '</div>' +
+          '<div class="lb-name">' + esc(formatName(m.name)) + '</div>' +
+          '<div class="lb-detail">' + esc(districtLabel) + ' · ' + esc(m.party) + '</div>' +
         '</div>' +
         '<div class="lb-time-wrap">' +
           '<span class="lb-time ' + urgency + '">' + timeStr + '</span>' +
@@ -353,6 +372,8 @@
       }
 
       latestVoteNumber = data.latest_vote_number || 0;
+      dataCongress = data.congress;
+      dataSession = data.session;
       allMembers = [];
       var members = data.members;
       for (var id in members) {
@@ -365,7 +386,6 @@
       }
 
       populateStateDropdown();
-      renderLeaderboard();
       render();
 
       document.getElementById("name-input").addEventListener("input", function () {

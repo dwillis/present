@@ -79,12 +79,22 @@ def main():
 
     existing = load_existing()
     existing_members = existing.get("members", {}) if existing else {}
-    newest_recorded_vote = 0
-    if existing_members:
+
+    # Backfill congress/session on entries written before those fields existed
+    if existing:
         for m in existing_members.values():
             lv = m.get("last_vote")
-            if lv and lv.get("vote_number", 0) > newest_recorded_vote:
-                newest_recorded_vote = lv["vote_number"]
+            if lv:
+                lv.setdefault("congress", existing.get("congress"))
+                lv.setdefault("session", existing.get("session"))
+
+    # Roll call numbers reset each session, so only entries from the current
+    # congress and session can anchor the incremental checks below
+    newest_recorded_vote = 0
+    for m in existing_members.values():
+        lv = m.get("last_vote")
+        if lv and lv.get("congress") == congress and lv.get("session") == session:
+            newest_recorded_vote = max(newest_recorded_vote, lv.get("vote_number", 0))
 
     print(f"Newest previously recorded vote: {newest_recorded_vote}")
 
@@ -111,14 +121,22 @@ def main():
     print(f"Found {len(current_members)} House members")
     time.sleep(0.5)
 
-    # Determine which members still need a vote record
+    # Carry over vote records for members we already know about
     vote_map = {}
     for bio_id, info in existing_members.items():
         if bio_id in current_members and info.get("last_vote"):
             vote_map[bio_id] = info["last_vote"]
 
-    needed = set(current_members.keys()) - set(vote_map.keys())
-    print(f"{len(needed)} members still need a vote record")
+    # Every member gets checked against votes newer than the last run; members
+    # we have never seen before also get a search back through older votes.
+    # Members already searched without success (e.g. delegates who never cast
+    # a floor vote) are only checked against new votes.
+    pending_new = set(current_members.keys())
+    missing = {
+        bio_id for bio_id in current_members
+        if bio_id not in vote_map and bio_id not in existing_members
+    }
+    print(f"{len(missing)} members need a full vote search")
 
     # Fetch votes newest-first
     print("Fetching House votes...")
@@ -142,19 +160,19 @@ def main():
     latest_vote_number = all_votes[0].get("rollCallNumber", 0) if all_votes else 0
     print(f"Found {len(all_votes)} total votes (latest: {latest_vote_number})")
 
-    # On incremental runs, only process votes newer than what we have
-    if newest_recorded_vote > 0 and needed == set():
-        all_votes = [v for v in all_votes if v.get("rollCallNumber", 0) > newest_recorded_vote]
-        # Re-check all members for these new votes
-        needed = set(current_members.keys())
-        print(f"Incremental mode: checking {len(all_votes)} new votes")
-
     for vote in all_votes:
-        if not needed:
+        vote_number = vote.get("rollCallNumber", 0)
+        if vote_number <= newest_recorded_vote:
+            # Past the new votes: members still pending simply haven't voted
+            # since the last run; keep walking older votes only for members
+            # with no record at all
+            pending_new = set()
+
+        targets = pending_new | missing
+        if not targets:
             print("All members accounted for!")
             break
 
-        vote_number = vote.get("rollCallNumber")
         vote_date = vote.get("startDate", "")
         description = build_vote_description(vote)
 
@@ -165,7 +183,7 @@ def main():
         found = 0
         for pos in positions:
             bio_id = pos.get("bioguideID")
-            if bio_id not in needed:
+            if bio_id not in targets:
                 continue
             if pos.get("voteCast") in ("Not Voting",):
                 continue
@@ -173,13 +191,16 @@ def main():
             vote_map[bio_id] = {
                 "date": vote_date,
                 "vote_number": vote_number,
+                "congress": congress,
+                "session": session,
                 "description": description,
                 "position": pos.get("voteCast", ""),
             }
-            needed.discard(bio_id)
+            pending_new.discard(bio_id)
+            missing.discard(bio_id)
             found += 1
 
-        print(f"found {found} members, {len(needed)} remaining")
+        print(f"found {found} members, {len(pending_new | missing)} unresolved")
 
     # Build final output
     output_members = {}
@@ -204,9 +225,10 @@ def main():
     print(f"\nDone! {voted}/{len(output_members)} members have vote records.")
     print(f"Written to {MEMBERS_FILE}")
 
-    if needed:
-        print(f"\n{len(needed)} members with no vote found:")
-        for bio_id in sorted(needed):
+    unfound = sorted(bio_id for bio_id in current_members if not vote_map.get(bio_id))
+    if unfound:
+        print(f"\n{len(unfound)} members with no vote found:")
+        for bio_id in unfound:
             print(f"  {bio_id}: {current_members[bio_id]['name']}")
 
 

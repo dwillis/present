@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-vote-data
+
 jobs:
   update:
     runs-on: ubuntu-latest
