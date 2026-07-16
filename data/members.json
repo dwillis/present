@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T11:25:17.515782+00:00",
+  "updated_at": "2026-07-16T11:28:37.898878+00:00",
   "congress": 119,
   "session": 2,
   "latest_vote_number": 222,
@@ -13,7 +13,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000622": {
@@ -25,7 +27,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000484": {
@@ -37,7 +41,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "V000138": {
@@ -49,7 +55,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000490": {
@@ -61,7 +69,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001230": {
@@ -73,7 +83,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000622": {
@@ -85,7 +97,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000621": {
@@ -97,7 +111,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001240": {
@@ -109,7 +125,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001239": {
@@ -121,7 +139,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001237": {
@@ -133,7 +153,9 @@
         "date": "2026-06-04T20:08:00-04:00",
         "vote_number": 207,
         "description": "HR 2913 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001236": {
@@ -145,7 +167,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001235": {
@@ -157,7 +181,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001232": {
@@ -169,7 +195,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001231": {
@@ -181,7 +209,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001230": {
@@ -193,7 +223,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000606": {
@@ -205,7 +237,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000405": {
@@ -217,7 +251,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000403": {
@@ -229,7 +265,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000310": {
@@ -241,7 +279,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001103": {
@@ -253,7 +293,9 @@
         "date": "2026-05-15T10:08:00-04:00",
         "vote_number": 174,
         "description": "Failed",
-        "position": "No"
+        "position": "No",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001102": {
@@ -265,7 +307,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001101": {
@@ -277,7 +321,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000604": {
@@ -289,7 +335,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Present"
+        "position": "Present",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000603": {
@@ -301,7 +349,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000602": {
@@ -313,7 +363,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000601": {
@@ -325,7 +377,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000483": {
@@ -337,7 +391,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000482": {
@@ -349,7 +405,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "E000301": {
@@ -361,7 +419,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000635": {
@@ -373,7 +433,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000634": {
@@ -385,7 +447,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001136": {
@@ -397,7 +461,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001327": {
@@ -409,7 +475,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001326": {
@@ -421,7 +489,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001325": {
@@ -433,7 +503,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001322": {
@@ -445,7 +517,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001321": {
@@ -457,7 +531,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000606": {
@@ -469,7 +545,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001229": {
@@ -481,7 +559,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001228": {
@@ -493,7 +573,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "O000177": {
@@ -505,7 +587,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "O000176": {
@@ -517,7 +601,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001238": {
@@ -529,7 +615,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001234": {
@@ -541,7 +629,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001233": {
@@ -553,7 +643,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000404": {
@@ -565,7 +657,9 @@
         "date": "2026-05-15T10:08:00-04:00",
         "vote_number": 174,
         "description": "Failed",
-        "position": "No"
+        "position": "No",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000311": {
@@ -577,7 +671,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001099": {
@@ -589,7 +685,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000481": {
@@ -601,7 +699,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "E000300": {
@@ -613,7 +713,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001137": {
@@ -625,7 +727,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000829": {
@@ -637,7 +741,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001229": {
@@ -649,7 +755,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000619": {
@@ -661,7 +769,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000480": {
@@ -673,7 +783,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000402": {
@@ -685,7 +797,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001228": {
@@ -697,7 +811,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "A000380": {
@@ -709,7 +825,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001227": {
@@ -721,7 +839,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "V000135": {
@@ -733,7 +853,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001223": {
@@ -745,7 +867,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001224": {
@@ -757,7 +881,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001226": {
@@ -769,7 +895,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000600": {
@@ -781,7 +909,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "O000175": {
@@ -793,7 +923,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001224": {
@@ -805,7 +937,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001222": {
@@ -817,7 +951,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001223": {
@@ -829,7 +965,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000603": {
@@ -841,7 +979,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000602": {
@@ -853,7 +993,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000599": {
@@ -865,7 +1007,9 @@
         "date": "2026-06-10T16:32:00-04:00",
         "vote_number": 220,
         "description": "HR 8464 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000600": {
@@ -877,7 +1021,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000601": {
@@ -889,7 +1035,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000399": {
@@ -901,7 +1049,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001095": {
@@ -913,7 +1063,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001094": {
@@ -925,7 +1077,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001096": {
@@ -937,7 +1091,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000478": {
@@ -949,7 +1105,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000530": {
@@ -961,7 +1119,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000594": {
@@ -973,7 +1133,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001130": {
@@ -985,7 +1147,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001131": {
@@ -997,7 +1161,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001317": {
@@ -1009,7 +1175,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001318": {
@@ -1021,7 +1189,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000579": {
@@ -1033,7 +1203,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000472": {
@@ -1045,7 +1217,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001205": {
@@ -1057,7 +1231,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001123": {
@@ -1069,7 +1245,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001205": {
@@ -1081,7 +1259,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000581": {
@@ -1093,7 +1273,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000478": {
@@ -1105,7 +1287,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001201": {
@@ -1117,7 +1301,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001188": {
@@ -1129,7 +1315,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "N000002": {
@@ -1141,7 +1329,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000553": {
@@ -1153,7 +1343,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000110": {
@@ -1165,7 +1357,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000399": {
@@ -1177,7 +1371,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "V000136": {
@@ -1189,7 +1385,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000487": {
@@ -1201,7 +1399,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000488": {
@@ -1213,7 +1413,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001225": {
@@ -1225,7 +1427,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001221": {
@@ -1237,7 +1441,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000617": {
@@ -1249,7 +1455,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000620": {
@@ -1261,7 +1469,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "N000193": {
@@ -1273,7 +1483,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001219": {
@@ -1285,7 +1497,9 @@
         "date": "2026-04-30T10:59:00-04:00",
         "vote_number": 152,
         "description": "Agreed to",
-        "position": "No"
+        "position": "No",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001217": {
@@ -1297,7 +1511,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001216": {
@@ -1309,7 +1525,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001226": {
@@ -1321,7 +1539,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001220": {
@@ -1333,7 +1553,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000596": {
@@ -1345,7 +1567,9 @@
         "date": "2026-06-09T19:05:00-04:00",
         "vote_number": 216,
         "description": "HR 5408 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000597": {
@@ -1357,7 +1581,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000598": {
@@ -1369,7 +1595,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000398": {
@@ -1381,7 +1609,9 @@
         "date": "2026-03-05T16:50:00-05:00",
         "vote_number": 87,
         "description": "HR 7744 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000400": {
@@ -1393,7 +1623,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000307": {
@@ -1405,7 +1637,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000309": {
@@ -1417,7 +1651,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "I000058": {
@@ -1429,7 +1665,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000599": {
@@ -1441,7 +1679,9 @@
         "date": "2026-06-10T16:32:00-04:00",
         "vote_number": 220,
         "description": "HR 8464 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000598": {
@@ -1453,7 +1693,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000476": {
@@ -1465,7 +1707,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000477": {
@@ -1477,7 +1721,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "E000235": {
@@ -1489,7 +1735,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "E000246": {
@@ -1501,7 +1749,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000230": {
@@ -1513,7 +1763,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001129": {
@@ -1525,7 +1777,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001316": {
@@ -1537,7 +1791,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001315": {
@@ -1549,7 +1805,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001314": {
@@ -1561,7 +1819,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "A000379": {
@@ -1573,7 +1833,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "O000019": {
@@ -1585,7 +1847,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000397": {
@@ -1597,7 +1861,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001215": {
@@ -1609,7 +1875,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001136": {
@@ -1621,7 +1889,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000305": {
@@ -1633,7 +1903,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001091": {
@@ -1645,7 +1917,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000593": {
@@ -1657,7 +1931,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000481": {
@@ -1669,7 +1945,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001199": {
@@ -1681,7 +1959,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000609": {
@@ -1693,7 +1973,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000585": {
@@ -1705,7 +1987,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "Z000018": {
@@ -1717,7 +2001,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000624": {
@@ -1729,7 +2015,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001194": {
@@ -1741,7 +2029,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000582": {
@@ -1753,7 +2043,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "A000371": {
@@ -1765,7 +2057,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001067": {
@@ -1777,7 +2071,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000462": {
@@ -1789,7 +2085,9 @@
         "date": "2026-06-10T16:32:00-04:00",
         "vote_number": 220,
         "description": "HR 8464 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000608": {
@@ -1801,7 +2099,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "V000130": {
@@ -1813,7 +2113,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000472": {
@@ -1825,7 +2127,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000599": {
@@ -1837,7 +2141,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "V000129": {
@@ -1849,7 +2155,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001080": {
@@ -1861,7 +2169,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001058": {
@@ -1873,7 +2183,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000798": {
@@ -1885,7 +2197,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S000344": {
@@ -1897,7 +2211,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000797": {
@@ -1909,7 +2225,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001059": {
@@ -1921,7 +2239,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000600": {
@@ -1933,7 +2253,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "I000056": {
@@ -1945,7 +2267,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C000059": {
@@ -1957,7 +2281,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001220": {
@@ -1969,7 +2295,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001225": {
@@ -1981,7 +2309,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000401": {
@@ -1993,7 +2323,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001132": {
@@ -2005,7 +2337,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001133": {
@@ -2017,7 +2351,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "Y000067": {
@@ -2029,7 +2365,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000475": {
@@ -2041,7 +2379,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000474": {
@@ -2053,7 +2393,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001126": {
@@ -2065,7 +2407,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001313": {
@@ -2077,7 +2421,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "E000071": {
@@ -2089,7 +2435,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001218": {
@@ -2101,7 +2449,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001125": {
@@ -2113,7 +2463,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000595": {
@@ -2125,7 +2477,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000788": {
@@ -2137,7 +2491,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "V000134": {
@@ -2149,7 +2505,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000486": {
@@ -2161,7 +2519,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001159": {
@@ -2173,7 +2533,9 @@
         "date": "2026-06-11T10:34:00-04:00",
         "vote_number": 221,
         "description": "Failed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S000929": {
@@ -2185,7 +2547,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S000168": {
@@ -2197,7 +2561,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000305": {
@@ -2209,7 +2575,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000048": {
@@ -2221,7 +2589,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "O000086": {
@@ -2233,7 +2603,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "N000026": {
@@ -2245,7 +2617,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001214": {
@@ -2257,7 +2631,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001213": {
@@ -2269,7 +2645,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001211": {
@@ -2281,7 +2659,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M000871": {
@@ -2293,7 +2673,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M000317": {
@@ -2305,7 +2687,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M000194": {
@@ -2317,7 +2701,9 @@
         "date": "2026-06-04T18:08:00-04:00",
         "vote_number": 205,
         "description": "HR 8646 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000273": {
@@ -2329,7 +2715,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000304": {
@@ -2341,7 +2729,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001086": {
@@ -2353,7 +2743,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000597": {
@@ -2365,7 +2757,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000471": {
@@ -2377,7 +2771,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000470": {
@@ -2389,7 +2785,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000446": {
@@ -2401,7 +2799,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000246": {
@@ -2413,7 +2813,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000032": {
@@ -2425,7 +2827,9 @@
         "date": "2026-06-10T16:32:00-04:00",
         "vote_number": 220,
         "description": "HR 8464 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001116": {
@@ -2437,7 +2841,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001039": {
@@ -2449,7 +2855,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B000740": {
@@ -2461,7 +2869,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B000668": {
@@ -2473,7 +2883,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "A000148": {
@@ -2485,7 +2897,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000165": {
@@ -2497,7 +2911,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001210": {
@@ -2509,7 +2925,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "V000133": {
@@ -2521,7 +2939,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001090": {
@@ -2533,7 +2953,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001211": {
@@ -2545,7 +2967,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000613": {
@@ -2557,7 +2981,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000623": {
@@ -2569,7 +2995,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001287": {
@@ -2581,7 +3009,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000559": {
@@ -2593,7 +3023,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001183": {
@@ -2605,7 +3037,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000565": {
@@ -2617,7 +3051,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001177": {
@@ -2629,7 +3065,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001163": {
@@ -2641,7 +3079,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000197": {
@@ -2653,7 +3093,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000460": {
@@ -2665,7 +3107,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S000250": {
@@ -2677,7 +3121,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M000687": {
@@ -2689,7 +3135,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Present"
+        "position": "Present",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000397": {
@@ -2701,7 +3149,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000592": {
@@ -2713,7 +3163,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001213": {
@@ -2725,7 +3177,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001216": {
@@ -2737,7 +3191,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001118": {
@@ -2749,7 +3205,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000587": {
@@ -2761,7 +3219,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000614": {
@@ -2773,7 +3233,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "E000299": {
@@ -2785,7 +3247,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000468": {
@@ -2797,7 +3261,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000589": {
@@ -2809,7 +3275,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001120": {
@@ -2821,7 +3289,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000612": {
@@ -2833,7 +3303,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001309": {
@@ -2845,7 +3317,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000301": {
@@ -2857,7 +3331,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000480": {
@@ -2869,7 +3345,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000610": {
@@ -2881,7 +3359,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000302": {
@@ -2893,7 +3373,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001204": {
@@ -2905,7 +3387,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001085": {
@@ -2917,7 +3401,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000631": {
@@ -2929,7 +3415,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "O000172": {
@@ -2941,7 +3429,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000590": {
@@ -2953,7 +3443,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000614": {
@@ -2965,7 +3457,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000591": {
@@ -2977,7 +3471,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001212": {
@@ -2989,7 +3485,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "O000173": {
@@ -3001,7 +3499,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001119": {
@@ -3013,7 +3513,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001215": {
@@ -3025,7 +3527,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000617": {
@@ -3037,7 +3541,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000482": {
@@ -3049,7 +3555,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000629": {
@@ -3061,7 +3569,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001307": {
@@ -3073,7 +3583,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "U000040": {
@@ -3085,7 +3597,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001117": {
@@ -3097,7 +3611,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000586": {
@@ -3109,7 +3625,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000469": {
@@ -3121,7 +3639,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001214": {
@@ -3133,7 +3653,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001081": {
@@ -3145,7 +3667,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001121": {
@@ -3157,7 +3681,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "N000191": {
@@ -3169,7 +3695,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000593": {
@@ -3181,7 +3709,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001082": {
@@ -3193,7 +3723,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001206": {
@@ -3205,7 +3737,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001306": {
@@ -3217,7 +3751,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001115": {
@@ -3229,7 +3765,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000585": {
@@ -3241,7 +3779,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "N000190": {
@@ -3253,7 +3793,9 @@
         "date": "2026-05-21T18:20:00-04:00",
         "vote_number": 191,
         "description": "HR 6047 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "E000298": {
@@ -3265,7 +3807,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000298": {
@@ -3277,7 +3821,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001199": {
@@ -3289,7 +3835,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000466": {
@@ -3301,7 +3849,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "E000296": {
@@ -3313,7 +3863,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001296": {
@@ -3325,7 +3877,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000605": {
@@ -3337,7 +3891,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001066": {
@@ -3349,7 +3905,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000376": {
@@ -3361,7 +3919,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000467": {
@@ -3373,7 +3933,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001055": {
@@ -3385,7 +3947,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000831": {
@@ -3397,7 +3961,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001241": {
@@ -3409,7 +3975,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001100": {
@@ -3421,7 +3989,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "A000375": {
@@ -3433,7 +4003,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000392": {
@@ -3445,7 +4017,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "E000297": {
@@ -3457,7 +4031,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000583": {
@@ -3469,7 +4045,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001298": {
@@ -3481,7 +4059,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001301": {
@@ -3493,7 +4073,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000606": {
@@ -3505,7 +4087,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000299": {
@@ -3517,7 +4101,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001077": {
@@ -3529,7 +4115,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000391": {
@@ -3541,7 +4129,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001200": {
@@ -3553,7 +4143,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000628": {
@@ -3565,7 +4157,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001110": {
@@ -3577,7 +4171,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001300": {
@@ -3589,7 +4185,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001112": {
@@ -3601,7 +4199,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001302": {
@@ -3613,7 +4213,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000389": {
@@ -3625,7 +4227,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001108": {
@@ -3637,7 +4241,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000626": {
@@ -3649,7 +4255,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000388": {
@@ -3661,7 +4269,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000576": {
@@ -3673,7 +4283,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "N000189": {
@@ -3685,7 +4297,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000610": {
@@ -3697,7 +4311,9 @@
         "date": "2026-01-22T16:51:00-05:00",
         "vote_number": 44,
         "description": "Failed",
-        "position": "No"
+        "position": "No",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001292": {
@@ -3709,7 +4325,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001291": {
@@ -3721,7 +4339,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001196": {
@@ -3733,7 +4353,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000822": {
@@ -3745,7 +4367,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000603": {
@@ -3757,7 +4381,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "E000294": {
@@ -3769,7 +4395,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001196": {
@@ -3781,7 +4409,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001295": {
@@ -3793,7 +4423,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "A000372": {
@@ -3805,7 +4437,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000583": {
@@ -3817,7 +4451,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001103": {
@@ -3829,7 +4465,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000474": {
@@ -3841,7 +4479,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000821": {
@@ -3853,7 +4493,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001072": {
@@ -3865,7 +4507,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000600": {
@@ -3884,7 +4528,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "N000188": {
@@ -3896,7 +4542,9 @@
         "date": "2026-06-11T10:34:00-04:00",
         "vote_number": 221,
         "description": "Failed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "A000370": {
@@ -3908,7 +4556,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001101": {
@@ -3920,7 +4570,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001195": {
@@ -3932,7 +4584,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001282": {
@@ -3944,7 +4598,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001190": {
@@ -3956,7 +4612,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000375": {
@@ -3968,7 +4626,9 @@
         "date": "2026-06-11T10:34:00-04:00",
         "vote_number": 221,
         "description": "Failed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000806": {
@@ -3980,7 +4640,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001067": {
@@ -3992,7 +4654,9 @@
         "date": "2026-06-10T16:32:00-04:00",
         "vote_number": 220,
         "description": "HR 8464 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000469": {
@@ -4004,7 +4668,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000468": {
@@ -4016,7 +4682,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000385": {
@@ -4028,7 +4696,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001137": {
@@ -4040,7 +4710,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M000312": {
@@ -4052,7 +4724,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "V000081": {
@@ -4064,7 +4738,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000463": {
@@ -4076,7 +4752,9 @@
         "date": "2026-06-10T16:32:00-04:00",
         "vote_number": 220,
         "description": "HR 8464 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000562": {
@@ -4088,7 +4766,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000830": {
@@ -4100,7 +4780,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000491": {
@@ -4112,7 +4794,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000620": {
@@ -4124,7 +4808,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000607": {
@@ -4136,7 +4822,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "V000131": {
@@ -4148,7 +4836,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000816": {
@@ -4160,7 +4850,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001091": {
@@ -4172,7 +4864,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000814": {
@@ -4184,7 +4878,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000295": {
@@ -4196,7 +4892,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001281": {
@@ -4208,7 +4906,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000294": {
@@ -4220,7 +4920,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001188": {
@@ -4232,7 +4934,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000812": {
@@ -4244,7 +4948,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001285": {
@@ -4256,7 +4962,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001068": {
@@ -4268,7 +4976,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000617": {
@@ -4280,7 +4990,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001184": {
@@ -4292,7 +5004,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001278": {
@@ -4304,7 +5018,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "A000369": {
@@ -4316,7 +5032,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000804": {
@@ -4328,7 +5046,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000566": {
@@ -4340,7 +5060,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000568": {
@@ -4352,7 +5074,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000616": {
@@ -4364,7 +5088,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000459": {
@@ -4376,7 +5102,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001052": {
@@ -4388,7 +5116,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001189": {
@@ -4400,7 +5130,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000808": {
@@ -4412,7 +5144,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000809": {
@@ -4424,7 +5158,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001087": {
@@ -4436,7 +5172,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001185": {
@@ -4448,7 +5186,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001068": {
@@ -4460,7 +5200,9 @@
         "date": "2026-06-09T19:05:00-04:00",
         "vote_number": 216,
         "description": "HR 5408 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000289": {
@@ -4472,7 +5214,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001172": {
@@ -4484,7 +5228,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "J000288": {
@@ -4496,7 +5242,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001260": {
@@ -4508,7 +5256,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001066": {
@@ -4520,7 +5270,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001257": {
@@ -4532,7 +5284,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001069": {
@@ -4544,7 +5298,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "Q000023": {
@@ -4556,7 +5312,9 @@
         "date": "2026-06-10T16:32:00-04:00",
         "vote_number": 220,
         "description": "HR 8464 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000597": {
@@ -4568,7 +5326,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000558": {
@@ -4580,7 +5340,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001047": {
@@ -4592,7 +5354,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001176": {
@@ -4604,7 +5368,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000454": {
@@ -4616,7 +5382,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001072": {
@@ -4628,7 +5396,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000187": {
@@ -4640,7 +5410,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S000185": {
@@ -4652,7 +5424,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "N000015": {
@@ -4664,7 +5438,9 @@
         "date": "2026-06-11T10:34:00-04:00",
         "vote_number": 221,
         "description": "Failed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000491": {
@@ -4676,7 +5452,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "N000147": {
@@ -4688,7 +5466,9 @@
         "date": "2026-05-15T10:08:00-04:00",
         "vote_number": 174,
         "description": "Failed",
-        "position": "No"
+        "position": "No",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001160": {
@@ -4700,7 +5480,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001063": {
@@ -4712,7 +5494,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001157": {
@@ -4724,7 +5508,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000450": {
@@ -4736,7 +5522,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001061": {
@@ -4748,7 +5536,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001053": {
@@ -4760,7 +5550,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001156": {
@@ -4772,7 +5564,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001143": {
@@ -4784,7 +5578,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001231": {
@@ -4796,7 +5592,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000621": {
@@ -4808,7 +5606,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000607": {
@@ -4820,7 +5620,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001098": {
@@ -4832,7 +5634,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000605": {
@@ -4844,7 +5648,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001323": {
@@ -4856,7 +5662,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "A000381": {
@@ -4868,7 +5676,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "P000034": {
@@ -4880,7 +5690,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001148": {
@@ -4892,7 +5704,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "S001145": {
@@ -4904,7 +5718,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000557": {
@@ -4916,7 +5732,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S000510": {
@@ -4928,7 +5746,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000197": {
@@ -4940,7 +5760,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000096": {
@@ -4952,7 +5774,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "A000055": {
@@ -4964,7 +5788,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "T000193": {
@@ -4976,7 +5802,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "S000522": {
@@ -4988,7 +5816,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000395": {
@@ -5000,7 +5830,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B000490": {
@@ -5012,7 +5844,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "C001051": {
@@ -5024,7 +5858,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "R000575": {
@@ -5036,7 +5872,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "W000795": {
@@ -5048,7 +5886,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "L000560": {
@@ -5060,7 +5900,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000546": {
@@ -5072,7 +5914,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "C000537": {
@@ -5084,7 +5928,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "D000216": {
@@ -5096,7 +5942,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "K000009": {
@@ -5108,7 +5956,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "H000874": {
@@ -5120,7 +5970,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "V000139": {
@@ -5132,7 +5984,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001246": {
@@ -5144,7 +5998,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "B001324": {
@@ -5156,7 +6012,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "H001093": {
@@ -5168,7 +6026,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "F000485": {
@@ -5180,7 +6040,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001218": {
@@ -5192,7 +6054,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001208": {
@@ -5204,7 +6068,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Nay"
+        "position": "Nay",
+        "congress": 119,
+        "session": 2
       }
     },
     "G000607": {
@@ -5216,7 +6082,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "B000825": {
@@ -5228,7 +6096,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     },
     "M001212": {
@@ -5240,7 +6110,9 @@
         "date": "2026-06-11T10:44:00-04:00",
         "vote_number": 222,
         "description": "HRES 1335 \u2014 Passed",
-        "position": "Yea"
+        "position": "Yea",
+        "congress": 119,
+        "session": 2
       }
     }
   }
