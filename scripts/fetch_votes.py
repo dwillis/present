@@ -98,23 +98,39 @@ def main():
 
     print(f"Newest previously recorded vote: {newest_recorded_vote}")
 
-    # Quick check: fetch just the most recent vote to see if anything is new
-    if existing and newest_recorded_vote > 0:
-        try:
-            resp = client.house_votes(congress, session, limit=1, offset=0)
-            latest_batch = resp.get("houseRollCallVotes", [])
-            if latest_batch:
-                current_latest = latest_batch[0].get("rollCallNumber", 0)
-                if current_latest <= newest_recorded_vote:
-                    existing["updated_at"] = datetime.now(timezone.utc).isoformat()
-                    with open(MEMBERS_FILE, "w") as f:
-                        json.dump(existing, f, indent=2)
-                    print(f"No new votes (latest is still {current_latest}). Updated timestamp only.")
-                    return
-                print(f"New votes found: {current_latest} > {newest_recorded_vote}")
-            time.sleep(0.5)
-        except httpx.TimeoutException:
-            print("Quick check timed out; proceeding with full fetch.")
+    # Fetch the vote list up front so we can reliably determine the latest
+    # roll call number (the API does not guarantee result ordering).
+    print("Fetching House votes...")
+    all_votes = []
+    offset = 0
+    try:
+        while True:
+            resp = client.house_votes(congress, session, limit=250, offset=offset)
+            batch = resp.get("houseRollCallVotes", [])
+            if not batch:
+                break
+            all_votes.extend(batch)
+            pagination = resp.get("pagination", {})
+            if pagination.get("next"):
+                offset += 250
+                time.sleep(0.5)
+            else:
+                break
+    except httpx.TimeoutException:
+        print("Vote list fetch timed out; proceeding with what we have.")
+
+    all_votes.sort(key=lambda v: v.get("rollCallNumber", 0), reverse=True)
+    latest_vote_number = all_votes[0].get("rollCallNumber", 0) if all_votes else 0
+    print(f"Found {len(all_votes)} total votes (latest: {latest_vote_number})")
+
+    # Early exit when there are no new votes
+    if existing and newest_recorded_vote > 0 and latest_vote_number <= newest_recorded_vote:
+        existing["updated_at"] = datetime.now(timezone.utc).isoformat()
+        existing["latest_vote_number"] = latest_vote_number
+        with open(MEMBERS_FILE, "w") as f:
+            json.dump(existing, f, indent=2)
+        print(f"No new votes (latest is still {latest_vote_number}). Updated timestamp only.")
+        return
 
     print("Fetching current House members...")
     current_members = fetch_current_house_members(client)
@@ -137,28 +153,6 @@ def main():
         if bio_id not in vote_map and bio_id not in existing_members
     }
     print(f"{len(missing)} members need a full vote search")
-
-    # Fetch votes newest-first
-    print("Fetching House votes...")
-    all_votes = []
-    offset = 0
-    while True:
-        resp = client.house_votes(congress, session, limit=250, offset=offset)
-        batch = resp.get("houseRollCallVotes", [])
-        if not batch:
-            break
-        all_votes.extend(batch)
-        pagination = resp.get("pagination", {})
-        if pagination.get("next"):
-            offset += 250
-            time.sleep(0.5)
-        else:
-            break
-
-    # Sort by rollCallNumber descending (newest first)
-    all_votes.sort(key=lambda v: v.get("rollCallNumber", 0), reverse=True)
-    latest_vote_number = all_votes[0].get("rollCallNumber", 0) if all_votes else 0
-    print(f"Found {len(all_votes)} total votes (latest: {latest_vote_number})")
 
     for vote in all_votes:
         vote_number = vote.get("rollCallNumber", 0)
