@@ -1,21 +1,35 @@
 {
-  "updated_at": "2026-09-14T16:06:06.024189+00:00",
+  "updated_at": "2026-09-15T14:35:14.378965+00:00",
   "congress": 119,
   "session": 2,
-  "latest_vote_number": 295,
+  "latest_vote_number": 297,
   "members": {
+    "W000832": {
+      "name": "Wahab, Aisha",
+      "state": "California",
+      "district": 14,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
     "B001328": {
       "name": "Blair, Everton",
       "state": "Georgia",
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000607": {
@@ -24,11 +38,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -38,12 +52,12 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "F000485": {
@@ -52,12 +66,12 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "M001245": {
@@ -66,12 +80,12 @@
       "district": 18,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "V000139": {
@@ -80,11 +94,11 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -94,11 +108,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -108,12 +122,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "V000138": {
@@ -122,11 +136,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -136,12 +150,12 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001239": {
@@ -150,25 +164,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
-    "M001230": {
-      "name": "Mackenzie, Ryan",
-      "state": "Pennsylvania",
-      "district": 7,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -178,12 +178,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "J000310": {
@@ -192,12 +192,12 @@
       "district": 32,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001103": {
@@ -220,12 +220,12 @@
       "district": 26,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "G000601": {
@@ -234,54 +234,12 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
-      }
-    },
-    "D000635": {
-      "name": "Dexter, Maxine",
-      "state": "Oregon",
-      "district": 3,
-      "party": "D",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
-      }
-    },
-    "B001327": {
-      "name": "Bresnahan, Robert P.",
-      "state": "Pennsylvania",
-      "district": 8,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
-    "B001326": {
-      "name": "Bynum, Janelle S.",
-      "state": "Oregon",
-      "district": 5,
-      "party": "D",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
       }
     },
     "B001325": {
@@ -290,12 +248,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "B001322": {
@@ -318,12 +276,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "T000490": {
@@ -332,12 +290,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "S001229": {
@@ -346,11 +304,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -360,12 +318,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "R000622": {
@@ -374,11 +332,11 @@
       "district": 19,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -388,12 +346,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "O000177": {
@@ -402,12 +360,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "O000176": {
@@ -416,12 +374,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001240": {
@@ -430,11 +388,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-01T18:09:00-04:00",
-        "vote_number": 292,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1498 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -444,12 +402,12 @@
       "district": 0,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001237": {
@@ -458,12 +416,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001236": {
@@ -472,11 +430,11 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -486,12 +444,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "M001234": {
@@ -500,12 +458,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001233": {
@@ -514,11 +472,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -528,12 +486,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001231": {
@@ -542,11 +500,25 @@
       "district": 22,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001230": {
+      "name": "Mackenzie, Ryan",
+      "state": "Pennsylvania",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -556,11 +528,11 @@
       "district": 16,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -570,11 +542,11 @@
       "district": 13,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -598,12 +570,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "H001102": {
@@ -612,12 +584,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "H001101": {
@@ -626,12 +598,12 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "H001099": {
@@ -640,11 +612,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -654,12 +626,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000602": {
@@ -668,11 +640,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -682,12 +654,12 @@
       "district": 30,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "F000482": {
@@ -696,11 +668,11 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -710,12 +682,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "E000301": {
@@ -724,12 +696,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "E000300": {
@@ -738,11 +710,25 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "D000635": {
+      "name": "Dexter, Maxine",
+      "state": "Oregon",
+      "district": 3,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -752,11 +738,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -766,12 +752,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "C001136": {
@@ -780,12 +766,40 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001327": {
+      "name": "Bresnahan, Robert P.",
+      "state": "Pennsylvania",
+      "district": 8,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "B001326": {
+      "name": "Bynum, Janelle S.",
+      "state": "Oregon",
+      "district": 5,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001321": {
@@ -794,12 +808,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "W000829": {
@@ -808,11 +822,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -822,12 +836,12 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "R000619": {
@@ -836,11 +850,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -850,11 +864,11 @@
       "district": 20,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -864,12 +878,12 @@
       "district": 26,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001228": {
@@ -878,11 +892,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -892,12 +906,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001227": {
@@ -906,12 +920,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "V000136": {
@@ -920,12 +934,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "V000135": {
@@ -934,11 +948,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -948,12 +962,12 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S001224": {
@@ -962,12 +976,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "S001226": {
@@ -976,12 +990,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000600": {
@@ -990,11 +1004,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1004,12 +1018,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "M001224": {
@@ -1018,11 +1032,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1032,12 +1046,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "M001226": {
@@ -1046,12 +1060,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001218": {
@@ -1060,12 +1074,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "M001223": {
@@ -1074,12 +1088,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "L000603": {
@@ -1088,12 +1102,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "L000602": {
@@ -1102,12 +1116,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "L000599": {
@@ -1116,11 +1130,11 @@
       "district": 17,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1130,11 +1144,11 @@
       "district": 23,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:04:00-04:00",
+        "vote_number": 296,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 4219 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1144,11 +1158,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1158,11 +1172,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1172,25 +1186,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
-    "K000398": {
-      "name": "Kean, Thomas H.",
-      "state": "New Jersey",
-      "district": 7,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1200,11 +1200,11 @@
       "district": 38,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1214,12 +1214,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001096": {
@@ -1228,11 +1228,11 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1256,40 +1256,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
-    "F000477": {
-      "name": "Foushee, Valerie P.",
-      "state": "North Carolina",
-      "district": 4,
-      "party": "D",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Nay"
-      }
-    },
-    "E000246": {
-      "name": "Edwards, Chuck",
-      "state": "North Carolina",
-      "district": 11,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
       }
     },
     "D000530": {
@@ -1298,12 +1270,12 @@
       "district": 17,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "D000594": {
@@ -1312,11 +1284,11 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1326,12 +1298,12 @@
       "district": 30,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001131": {
@@ -1340,12 +1312,12 @@
       "district": 35,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001317": {
@@ -1354,12 +1326,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "B001318": {
@@ -1368,12 +1340,12 @@
       "district": 0,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "R000579": {
@@ -1382,12 +1354,12 @@
       "district": 18,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001212": {
@@ -1396,12 +1368,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "F000472": {
@@ -1410,11 +1382,11 @@
       "district": 18,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1424,11 +1396,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1438,11 +1410,11 @@
       "district": 31,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1452,12 +1424,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000581": {
@@ -1466,11 +1438,11 @@
       "district": 34,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1480,11 +1452,11 @@
       "district": 24,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1494,25 +1466,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
-    "H001067": {
-      "name": "Hudson, Richard",
-      "state": "North Carolina",
-      "district": 9,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1522,11 +1480,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1536,12 +1494,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000553": {
@@ -1550,12 +1508,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "F000110": {
@@ -1564,12 +1522,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "D000399": {
@@ -1578,12 +1536,12 @@
       "district": 37,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "T000487": {
@@ -1592,12 +1550,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "T000488": {
@@ -1606,11 +1564,11 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1620,12 +1578,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "S001225": {
@@ -1634,12 +1592,12 @@
       "district": 17,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S001221": {
@@ -1648,11 +1606,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1662,12 +1620,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "P000620": {
@@ -1676,12 +1634,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "N000193": {
@@ -1690,11 +1648,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1704,12 +1662,12 @@
       "district": 15,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001219": {
@@ -1732,11 +1690,11 @@
       "district": 23,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1760,12 +1718,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "L000596": {
@@ -1774,12 +1732,12 @@
       "district": 13,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "L000597": {
@@ -1788,11 +1746,11 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1802,11 +1760,25 @@
       "district": 3,
       "party": "I",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "K000398": {
+      "name": "Kean, Thomas H.",
+      "state": "New Jersey",
+      "district": 7,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1816,12 +1788,12 @@
       "district": 37,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "J000307": {
@@ -1844,12 +1816,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "I000058": {
@@ -1858,12 +1830,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001093": {
@@ -1872,11 +1844,11 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1886,12 +1858,12 @@
       "district": 42,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "F000476": {
@@ -1900,12 +1872,26 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "F000477": {
+      "name": "Foushee, Valerie P.",
+      "state": "North Carolina",
+      "district": 4,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "E000235": {
@@ -1914,12 +1900,26 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
+      }
+    },
+    "E000246": {
+      "name": "Edwards, Chuck",
+      "state": "North Carolina",
+      "district": 11,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "D000230": {
@@ -1928,11 +1928,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1942,12 +1942,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "C001129": {
@@ -1970,11 +1970,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1984,12 +1984,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "B001315": {
@@ -1998,12 +1998,12 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001314": {
@@ -2012,12 +2012,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "A000379": {
@@ -2026,11 +2026,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2040,11 +2040,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2054,12 +2054,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "F000474": {
@@ -2068,11 +2068,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2082,11 +2082,11 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2096,12 +2096,12 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "E000071": {
@@ -2110,11 +2110,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2124,12 +2124,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001125": {
@@ -2138,12 +2138,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "L000595": {
@@ -2152,11 +2152,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2166,11 +2166,11 @@
       "district": 23,
       "party": "R",
       "last_vote": {
-        "date": "2026-07-23T10:32:00-04:00",
-        "vote_number": 283,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 8884 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2180,25 +2180,11 @@
       "district": 40,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
-    "V000134": {
-      "name": "Van Duyne, Beth",
-      "state": "Texas",
-      "district": 24,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2208,12 +2194,12 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "O000086": {
@@ -2230,31 +2216,17 @@
         "position": "Yea"
       }
     },
-    "N000026": {
-      "name": "Nehls, Troy E.",
-      "state": "Texas",
-      "district": 22,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
     "M001215": {
       "name": "Miller-Meeks, Mariannette",
       "state": "Iowa",
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2264,11 +2236,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2278,11 +2250,11 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2292,25 +2264,11 @@
       "district": 51,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
-      }
-    },
-    "J000304": {
-      "name": "Jackson, Ronny",
-      "state": "Texas",
-      "district": 13,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2320,11 +2278,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2334,11 +2292,11 @@
       "district": 28,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2348,11 +2306,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2362,12 +2320,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001090": {
@@ -2376,12 +2334,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S001211": {
@@ -2390,12 +2348,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001199": {
@@ -2404,11 +2362,11 @@
       "district": 21,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2418,11 +2376,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2432,11 +2390,11 @@
       "district": 19,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2446,11 +2404,11 @@
       "district": 16,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2460,11 +2418,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2474,12 +2432,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001194": {
@@ -2488,11 +2446,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2502,12 +2460,12 @@
       "district": 36,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "A000371": {
@@ -2516,12 +2474,12 @@
       "district": 33,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "D000623": {
@@ -2530,12 +2488,26 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001067": {
+      "name": "Hudson, Richard",
+      "state": "North Carolina",
+      "district": 9,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "F000462": {
@@ -2544,11 +2516,11 @@
       "district": 22,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2558,12 +2530,12 @@
       "district": 50,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "V000130": {
@@ -2572,11 +2544,11 @@
       "district": 52,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2586,12 +2558,12 @@
       "district": 39,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "R000599": {
@@ -2600,12 +2572,12 @@
       "district": 25,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "V000129": {
@@ -2614,11 +2586,11 @@
       "district": 22,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2628,12 +2600,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000559": {
@@ -2656,12 +2628,12 @@
       "district": 28,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001058": {
@@ -2670,11 +2642,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2684,11 +2656,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2698,11 +2670,11 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2712,11 +2684,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2726,12 +2698,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "M001163": {
@@ -2740,12 +2712,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "P000197": {
@@ -2754,12 +2726,12 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "T000460": {
@@ -2768,12 +2740,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S000344": {
@@ -2782,25 +2754,11 @@
       "district": 32,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
-    "S000250": {
-      "name": "Sessions, Pete",
-      "state": "Texas",
-      "district": 17,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2810,11 +2768,11 @@
       "district": 25,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2824,11 +2782,11 @@
       "district": 21,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2838,11 +2796,11 @@
       "district": 26,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2852,11 +2810,11 @@
       "district": 48,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2866,11 +2824,11 @@
       "district": 41,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2880,12 +2838,12 @@
       "district": 18,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "W000788": {
@@ -2894,12 +2852,26 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "V000134": {
+      "name": "Van Duyne, Beth",
+      "state": "Texas",
+      "district": 24,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "T000486": {
@@ -2908,11 +2880,11 @@
       "district": 15,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2922,11 +2894,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2936,11 +2908,11 @@
       "district": 27,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2950,12 +2922,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "P000048": {
@@ -2964,11 +2936,25 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "N000026": {
+      "name": "Nehls, Troy E.",
+      "state": "Texas",
+      "district": 22,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2978,12 +2964,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001211": {
@@ -2992,12 +2978,12 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-07-23T10:32:00-04:00",
-        "vote_number": 283,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 8884 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "M000871": {
@@ -3020,11 +3006,11 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3034,11 +3020,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3048,11 +3034,25 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "J000304": {
+      "name": "Jackson, Ronny",
+      "state": "Texas",
+      "district": 13,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
         "position": "Nay"
       }
     },
@@ -3062,12 +3062,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "G000597": {
@@ -3076,11 +3076,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3090,11 +3090,11 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3104,11 +3104,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3118,12 +3118,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "D000032": {
@@ -3146,12 +3146,12 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "C001039": {
@@ -3160,11 +3160,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3174,11 +3174,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:04:00-04:00",
+        "vote_number": 296,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 4219 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3188,11 +3188,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3202,11 +3202,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3230,11 +3230,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3244,11 +3244,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3258,11 +3258,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3272,11 +3272,11 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3286,12 +3286,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "G000587": {
@@ -3300,12 +3300,12 @@
       "district": 29,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "R000614": {
@@ -3314,12 +3314,12 @@
       "district": 21,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "E000299": {
@@ -3328,12 +3328,12 @@
       "district": 16,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "F000468": {
@@ -3342,12 +3342,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000589": {
@@ -3356,11 +3356,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3384,12 +3384,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "B001309": {
@@ -3398,12 +3398,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "J000301": {
@@ -3412,11 +3412,11 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3426,11 +3426,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3440,11 +3440,11 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3454,12 +3454,12 @@
       "district": 13,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "M001204": {
@@ -3468,11 +3468,11 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3482,12 +3482,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "D000631": {
@@ -3496,12 +3496,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "O000172": {
@@ -3510,12 +3510,12 @@
       "district": 14,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "L000590": {
@@ -3524,11 +3524,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3552,12 +3552,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000591": {
@@ -3566,11 +3566,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3580,11 +3580,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3594,12 +3594,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001119": {
@@ -3608,12 +3608,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S001215": {
@@ -3622,11 +3622,11 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3636,12 +3636,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "T000482": {
@@ -3650,12 +3650,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "D000629": {
@@ -3664,12 +3664,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001307": {
@@ -3678,11 +3678,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3692,12 +3692,12 @@
       "district": 14,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001117": {
@@ -3706,12 +3706,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000586": {
@@ -3720,12 +3720,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "F000469": {
@@ -3734,11 +3734,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3748,11 +3748,11 @@
       "district": 17,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3762,12 +3762,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001121": {
@@ -3776,12 +3776,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "N000191": {
@@ -3790,12 +3790,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "L000593": {
@@ -3804,12 +3804,12 @@
       "district": 49,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001082": {
@@ -3818,11 +3818,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3832,12 +3832,12 @@
       "district": 25,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001306": {
@@ -3846,11 +3846,11 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3860,12 +3860,12 @@
       "district": 27,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "G000585": {
@@ -3874,12 +3874,12 @@
       "district": 34,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "N000190": {
@@ -3888,12 +3888,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "E000298": {
@@ -3916,11 +3916,11 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3930,11 +3930,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3958,12 +3958,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "P000605": {
@@ -3972,12 +3972,12 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "H001066": {
@@ -3986,12 +3986,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "K000376": {
@@ -4000,11 +4000,11 @@
       "district": 16,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4014,11 +4014,25 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "S000250": {
+      "name": "Sessions, Pete",
+      "state": "Texas",
+      "district": 17,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4028,12 +4042,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001055": {
@@ -4042,12 +4056,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "W000831": {
@@ -4056,12 +4070,12 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001241": {
@@ -4070,12 +4084,12 @@
       "district": 47,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001100": {
@@ -4084,11 +4098,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4098,12 +4112,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "A000375": {
@@ -4112,12 +4126,12 @@
       "district": 19,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "K000392": {
@@ -4126,11 +4140,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4140,12 +4154,12 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000583": {
@@ -4154,12 +4168,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001298": {
@@ -4168,11 +4182,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4182,11 +4196,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4196,12 +4210,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "J000299": {
@@ -4224,12 +4238,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "K000391": {
@@ -4238,12 +4252,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S001200": {
@@ -4252,11 +4266,11 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4280,12 +4294,12 @@
       "district": 46,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001300": {
@@ -4294,12 +4308,12 @@
       "district": 44,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001112": {
@@ -4308,12 +4322,12 @@
       "district": 24,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001302": {
@@ -4322,12 +4336,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "K000389": {
@@ -4336,12 +4350,12 @@
       "district": 17,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001108": {
@@ -4350,12 +4364,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "D000626": {
@@ -4364,11 +4378,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Nay"
       }
     },
@@ -4378,11 +4392,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4392,12 +4406,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "N000189": {
@@ -4406,11 +4420,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4434,12 +4448,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001291": {
@@ -4448,12 +4462,12 @@
       "district": 36,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "S001196": {
@@ -4476,12 +4490,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "R000603": {
@@ -4490,11 +4504,11 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4504,11 +4518,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4518,12 +4532,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-07-23T10:32:00-04:00",
-        "vote_number": 283,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 8884 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001295": {
@@ -4532,11 +4546,11 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4546,11 +4560,11 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4588,12 +4602,12 @@
       "district": 35,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "W000821": {
@@ -4602,11 +4616,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4616,11 +4630,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4637,11 +4651,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4651,11 +4665,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4665,12 +4679,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001101": {
@@ -4679,12 +4693,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "P000607": {
@@ -4693,12 +4707,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "V000131": {
@@ -4707,12 +4721,12 @@
       "district": 33,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "W000816": {
@@ -4721,11 +4735,11 @@
       "district": 25,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4735,12 +4749,12 @@
       "district": 20,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "W000814": {
@@ -4749,12 +4763,12 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "J000295": {
@@ -4763,11 +4777,11 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4777,12 +4791,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "J000294": {
@@ -4791,12 +4805,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001188": {
@@ -4805,12 +4819,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "W000812": {
@@ -4833,11 +4847,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4847,11 +4861,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4861,11 +4875,11 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4875,12 +4889,12 @@
       "district": 26,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001068": {
@@ -4889,12 +4903,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "D000617": {
@@ -4917,11 +4931,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Nay"
       }
     },
@@ -4931,11 +4945,81 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "A000369": {
+      "name": "Amodei, Mark E.",
+      "state": "Nevada",
+      "district": 2,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "G000568": {
+      "name": "Griffith, H. Morgan",
+      "state": "Virginia",
+      "district": 9,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "D000616": {
+      "name": "DesJarlais, Scott",
+      "state": "Tennessee",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "F000459": {
+      "name": "Fleischmann, Charles J. \"Chuck\"",
+      "state": "Tennessee",
+      "district": 3,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "H001052": {
+      "name": "Harris, Andy",
+      "state": "Maryland",
+      "district": 1,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
         "position": "Nay"
       }
     },
@@ -4945,12 +5029,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "W000808": {
@@ -4959,12 +5043,12 @@
       "district": 24,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "W000806": {
@@ -4973,12 +5057,26 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
+      }
+    },
+    "J000289": {
+      "name": "Jordan, Jim",
+      "state": "Ohio",
+      "district": 4,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "C001067": {
@@ -4987,12 +5085,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001260": {
@@ -5015,11 +5113,11 @@
       "district": 14,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5029,11 +5127,11 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5043,12 +5141,12 @@
       "district": 20,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "T000468": {
@@ -5057,11 +5155,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5071,12 +5169,12 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "K000385": {
@@ -5085,12 +5183,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001137": {
@@ -5099,12 +5197,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M000312": {
@@ -5113,12 +5211,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "W000187": {
@@ -5127,12 +5225,12 @@
       "district": 43,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "V000081": {
@@ -5141,18 +5239,32 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-07-23T10:32:00-04:00",
-        "vote_number": 283,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 8884 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "N000015": {
       "name": "Neal, Richard E.",
       "state": "Massachusetts",
       "district": 1,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "M001160": {
+      "name": "Moore, Gwen",
+      "state": "Wisconsin",
+      "district": 4,
       "party": "D",
       "last_vote": {
         "date": "2026-09-03T10:24:00-04:00",
@@ -5169,11 +5281,11 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5183,12 +5295,12 @@
       "district": 38,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "L000562": {
@@ -5197,12 +5309,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "W000830": {
@@ -5211,12 +5323,12 @@
       "district": 27,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "T000491": {
@@ -5225,12 +5337,12 @@
       "district": 45,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S001231": {
@@ -5239,12 +5351,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "R000621": {
@@ -5253,12 +5365,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "R000620": {
@@ -5267,12 +5379,12 @@
       "district": 29,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "L000607": {
@@ -5281,12 +5393,12 @@
       "district": 16,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001098": {
@@ -5295,12 +5407,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "G000605": {
@@ -5309,12 +5421,12 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:04:00-04:00",
+        "vote_number": 296,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 4219 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001323": {
@@ -5323,12 +5435,12 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "A000381": {
@@ -5337,25 +5449,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
-      }
-    },
-    "A000369": {
-      "name": "Amodei, Mark E.",
-      "state": "Nevada",
-      "district": 2,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5365,11 +5463,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5379,67 +5477,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
-    "G000568": {
-      "name": "Griffith, H. Morgan",
-      "state": "Virginia",
-      "district": 9,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
-    "D000616": {
-      "name": "DesJarlais, Scott",
-      "state": "Tennessee",
-      "district": 4,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
-    "F000459": {
-      "name": "Fleischmann, Charles J. \"Chuck\"",
-      "state": "Tennessee",
-      "district": 3,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
-      }
-    },
-    "H001052": {
-      "name": "Harris, Andy",
-      "state": "Maryland",
-      "district": 1,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5449,11 +5491,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5463,11 +5505,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5477,11 +5519,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5491,12 +5533,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001068": {
@@ -5505,25 +5547,11 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
-      }
-    },
-    "J000289": {
-      "name": "Jordan, Jim",
-      "state": "Ohio",
-      "district": 4,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5533,11 +5561,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5547,12 +5575,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001069": {
@@ -5561,11 +5589,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5575,12 +5603,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "P000597": {
@@ -5589,12 +5617,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000558": {
@@ -5603,11 +5631,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5617,12 +5645,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S001176": {
@@ -5631,11 +5659,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5645,12 +5673,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "P000034": {
@@ -5659,12 +5687,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S001148": {
@@ -5673,11 +5701,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5701,12 +5729,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S000510": {
@@ -5729,12 +5757,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "D000096": {
@@ -5743,12 +5771,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "A000055": {
@@ -5757,11 +5785,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5771,12 +5799,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S000522": {
@@ -5785,11 +5813,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5799,12 +5827,26 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
+      }
+    },
+    "R000395": {
+      "name": "Rogers, Harold",
+      "state": "Kentucky",
+      "district": 5,
+      "party": "R",
+      "last_vote": {
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
+        "congress": 119,
+        "session": 2,
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B000490": {
@@ -5813,12 +5855,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "L000491": {
@@ -5827,11 +5869,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5849,31 +5891,17 @@
         "position": "No"
       }
     },
-    "M001160": {
-      "name": "Moore, Gwen",
-      "state": "Wisconsin",
-      "district": 4,
-      "party": "D",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
-      }
-    },
     "C001063": {
       "name": "Cuellar, Henry",
       "state": "Texas",
       "district": 28,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5883,11 +5911,11 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-07-23T10:32:00-04:00",
-        "vote_number": 283,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 8884 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5897,12 +5925,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "C001061": {
@@ -5911,12 +5939,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001051": {
@@ -5925,11 +5953,11 @@
       "district": 31,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5939,11 +5967,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5953,11 +5981,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5967,11 +5995,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5981,12 +6009,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000546": {
@@ -5995,11 +6023,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -6009,12 +6037,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C000537": {
@@ -6023,12 +6051,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "D000216": {
@@ -6037,12 +6065,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "K000009": {
@@ -6051,11 +6079,11 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-07-23T10:32:00-04:00",
-        "vote_number": 283,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 8884 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -6065,25 +6093,11 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
-      }
-    },
-    "R000395": {
-      "name": "Rogers, Harold",
-      "state": "Kentucky",
-      "district": 5,
-      "party": "R",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
+        "description": "HR 3276 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -6093,12 +6107,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-02T16:49:00-04:00",
-        "vote_number": 294,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 1501 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B000825": {
@@ -6107,12 +6121,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "M001208": {
@@ -6121,26 +6135,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
+        "date": "2026-09-14T19:16:00-04:00",
+        "vote_number": 297,
         "congress": 119,
         "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
-      }
-    },
-    "W000832": {
-      "name": "Wahab, Aisha",
-      "state": "California",
-      "district": 14,
-      "party": "D",
-      "last_vote": {
-        "date": "2026-09-03T10:24:00-04:00",
-        "vote_number": 295,
-        "congress": 119,
-        "session": 2,
-        "description": "HR 4795 \u2014 Passed",
-        "position": "Nay"
+        "description": "HR 3276 \u2014 Passed",
+        "position": "Yea"
       }
     }
   }
