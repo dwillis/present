@@ -1,21 +1,35 @@
 {
-  "updated_at": "2026-11-11T17:38:39.827545+00:00",
+  "updated_at": "2026-11-12T17:50:35.217940+00:00",
   "congress": 119,
   "session": 2,
-  "latest_vote_number": 319,
+  "latest_vote_number": 323,
   "members": {
+    "S001223": {
+      "name": "Sykes, Emilia Strong",
+      "state": "Ohio",
+      "district": 13,
+      "party": "D",
+      "last_vote": {
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
+        "congress": 119,
+        "session": 2,
+        "description": "Passed",
+        "position": "Yea"
+      }
+    },
     "F000476": {
       "name": "Frost, Maxwell",
       "state": "Florida",
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001245": {
@@ -24,12 +38,12 @@
       "district": 18,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000831": {
@@ -38,12 +52,12 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "V000138": {
@@ -52,12 +66,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001230": {
@@ -66,12 +80,12 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000621": {
@@ -80,12 +94,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001239": {
@@ -94,12 +108,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001235": {
@@ -108,12 +122,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000403": {
@@ -122,12 +136,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "J000310": {
@@ -136,12 +150,12 @@
       "district": 32,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000603": {
@@ -150,12 +164,12 @@
       "district": 26,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001322": {
@@ -164,12 +178,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000829": {
@@ -178,12 +192,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001228": {
@@ -192,12 +206,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001227": {
@@ -206,12 +220,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "V000135": {
@@ -220,12 +234,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000600": {
@@ -234,12 +248,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000399": {
@@ -248,12 +262,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001095": {
@@ -262,12 +276,12 @@
       "district": 38,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001096": {
@@ -276,12 +290,12 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000594": {
@@ -304,12 +318,12 @@
       "district": 30,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001131": {
@@ -318,12 +332,12 @@
       "district": 35,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001318": {
@@ -332,12 +346,12 @@
       "district": 0,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "V000134": {
@@ -346,12 +360,12 @@
       "district": 24,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001159": {
@@ -360,12 +374,12 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "O000086": {
@@ -374,12 +388,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "N000026": {
@@ -388,12 +402,12 @@
       "district": 22,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001213": {
@@ -402,12 +416,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "F000471": {
@@ -416,12 +430,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000165": {
@@ -430,12 +444,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001205": {
@@ -444,12 +458,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001213": {
@@ -458,12 +472,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001216": {
@@ -472,12 +486,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001118": {
@@ -486,12 +500,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000587": {
@@ -500,12 +514,12 @@
       "district": 29,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000614": {
@@ -514,12 +528,12 @@
       "district": 21,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "E000299": {
@@ -528,12 +542,12 @@
       "district": 16,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001115": {
@@ -542,12 +556,12 @@
       "district": 27,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "J000298": {
@@ -556,12 +570,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "A000375": {
@@ -570,12 +584,12 @@
       "district": 19,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000581": {
@@ -584,12 +598,12 @@
       "district": 34,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000576": {
@@ -598,12 +612,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "N000189": {
@@ -612,12 +626,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000610": {
@@ -640,12 +654,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001291": {
@@ -654,12 +668,12 @@
       "district": 36,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000607": {
@@ -668,12 +682,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "V000131": {
@@ -682,12 +696,12 @@
       "district": 33,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000816": {
@@ -696,12 +710,12 @@
       "district": 25,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001091": {
@@ -710,12 +724,12 @@
       "district": 20,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000814": {
@@ -724,12 +738,12 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000617": {
@@ -738,12 +752,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000804": {
@@ -752,12 +766,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000568": {
@@ -766,12 +780,12 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S000510": {
@@ -780,12 +794,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S000250": {
@@ -794,12 +808,12 @@
       "district": 17,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S000185": {
@@ -808,12 +822,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001160": {
@@ -822,12 +836,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001063": {
@@ -836,12 +850,12 @@
       "district": 28,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001051": {
@@ -850,12 +864,12 @@
       "district": 31,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000560": {
@@ -864,12 +878,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000399": {
@@ -878,12 +892,12 @@
       "district": 37,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "V000139": {
@@ -892,12 +906,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000490": {
@@ -906,12 +920,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000622": {
@@ -920,12 +934,12 @@
       "district": 19,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001231": {
@@ -934,12 +948,12 @@
       "district": 22,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001230": {
@@ -948,12 +962,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000606": {
@@ -962,12 +976,12 @@
       "district": 16,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001103": {
@@ -990,12 +1004,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000601": {
@@ -1004,12 +1018,12 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000635": {
@@ -1018,12 +1032,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001327": {
@@ -1032,12 +1046,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001326": {
@@ -1046,12 +1060,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001325": {
@@ -1060,12 +1074,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000619": {
@@ -1074,12 +1088,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000402": {
@@ -1088,12 +1102,12 @@
       "district": 26,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "A000380": {
@@ -1102,26 +1116,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
-      }
-    },
-    "S001223": {
-      "name": "Sykes, Emilia Strong",
-      "state": "Ohio",
-      "district": 13,
-      "party": "D",
-      "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
-        "congress": 119,
-        "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001224": {
@@ -1130,12 +1130,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "S001226": {
@@ -1144,12 +1144,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "O000175": {
@@ -1158,12 +1158,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001224": {
@@ -1172,12 +1172,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001222": {
@@ -1186,12 +1186,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001223": {
@@ -1200,12 +1200,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000603": {
@@ -1214,12 +1214,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000602": {
@@ -1228,12 +1228,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000599": {
@@ -1242,12 +1242,12 @@
       "district": 17,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000600": {
@@ -1256,12 +1256,12 @@
       "district": 23,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000601": {
@@ -1270,12 +1270,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001094": {
@@ -1284,12 +1284,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000599": {
@@ -1298,12 +1298,12 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:10:00-05:00",
-        "vote_number": 318,
+        "date": "2026-11-12T09:45:00-05:00",
+        "vote_number": 322,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Nay"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000478": {
@@ -1312,12 +1312,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000530": {
@@ -1326,12 +1326,12 @@
       "district": 17,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001317": {
@@ -1340,12 +1340,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000579": {
@@ -1354,12 +1354,12 @@
       "district": 18,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001126": {
@@ -1368,12 +1368,12 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001313": {
@@ -1382,12 +1382,12 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "E000071": {
@@ -1396,12 +1396,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000486": {
@@ -1410,12 +1410,12 @@
       "district": 15,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000048": {
@@ -1424,12 +1424,12 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M000317": {
@@ -1438,12 +1438,12 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M000194": {
@@ -1452,12 +1452,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "J000304": {
@@ -1466,12 +1466,12 @@
       "district": 13,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001086": {
@@ -1480,12 +1480,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000246": {
@@ -1494,12 +1494,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B000740": {
@@ -1508,12 +1508,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B000668": {
@@ -1522,12 +1522,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000468": {
@@ -1536,12 +1536,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000589": {
@@ -1550,12 +1550,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001120": {
@@ -1564,12 +1564,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "R000612": {
@@ -1578,12 +1578,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "B001309": {
@@ -1592,12 +1592,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "J000301": {
@@ -1606,12 +1606,12 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000480": {
@@ -1620,12 +1620,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "R000610": {
@@ -1634,12 +1634,12 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "J000302": {
@@ -1648,12 +1648,12 @@
       "district": 13,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001204": {
@@ -1662,12 +1662,12 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001085": {
@@ -1676,12 +1676,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000631": {
@@ -1690,12 +1690,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "O000172": {
@@ -1704,12 +1704,12 @@
       "district": 14,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001082": {
@@ -1718,12 +1718,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001206": {
@@ -1732,12 +1732,12 @@
       "district": 25,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001205": {
@@ -1746,12 +1746,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001306": {
@@ -1760,12 +1760,12 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "N000190": {
@@ -1774,12 +1774,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "K000392": {
@@ -1788,12 +1788,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001199": {
@@ -1802,12 +1802,12 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "F000466": {
@@ -1816,12 +1816,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000478": {
@@ -1830,12 +1830,12 @@
       "district": 24,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "E000297": {
@@ -1844,12 +1844,12 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "E000296": {
@@ -1858,12 +1858,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000626": {
@@ -1872,12 +1872,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001296": {
@@ -1886,12 +1886,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001196": {
@@ -1900,12 +1900,12 @@
       "district": 21,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000605": {
@@ -1914,12 +1914,12 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "J000295": {
@@ -1928,12 +1928,12 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001281": {
@@ -1942,12 +1942,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "J000294": {
@@ -1956,12 +1956,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001188": {
@@ -1970,12 +1970,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001278": {
@@ -1984,12 +1984,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000566": {
@@ -1998,12 +1998,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000616": {
@@ -2012,12 +2012,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "F000459": {
@@ -2026,12 +2026,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000376": {
@@ -2040,12 +2040,12 @@
       "district": 16,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001068": {
@@ -2054,12 +2054,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "J000289": {
@@ -2068,12 +2068,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001067": {
@@ -2082,12 +2082,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000467": {
@@ -2096,12 +2096,12 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000469": {
@@ -2110,12 +2110,12 @@
       "district": 20,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001137": {
@@ -2124,12 +2124,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "V000081": {
@@ -2138,12 +2138,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "N000002": {
@@ -2152,12 +2152,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000491": {
@@ -2166,12 +2166,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001157": {
@@ -2180,12 +2180,12 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000553": {
@@ -2194,12 +2194,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001053": {
@@ -2208,12 +2208,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000463": {
@@ -2222,12 +2222,12 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000795": {
@@ -2236,12 +2236,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C000537": {
@@ -2250,12 +2250,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000009": {
@@ -2264,12 +2264,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001246": {
@@ -2278,12 +2278,12 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000621": {
@@ -2292,12 +2292,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "O000177": {
@@ -2306,12 +2306,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "O000176": {
@@ -2320,12 +2320,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001240": {
@@ -2334,12 +2334,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001237": {
@@ -2348,12 +2348,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001236": {
@@ -2362,12 +2362,12 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001234": {
@@ -2376,12 +2376,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001232": {
@@ -2390,12 +2390,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000405": {
@@ -2404,12 +2404,12 @@
       "district": 13,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000404": {
@@ -2432,12 +2432,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "H001101": {
@@ -2446,12 +2446,12 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000604": {
@@ -2460,12 +2460,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000482": {
@@ -2474,12 +2474,12 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "E000301": {
@@ -2488,12 +2488,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000634": {
@@ -2502,12 +2502,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001136": {
@@ -2516,12 +2516,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001324": {
@@ -2530,12 +2530,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001321": {
@@ -2544,12 +2544,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001229": {
@@ -2558,12 +2558,12 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "V000136": {
@@ -2572,12 +2572,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000488": {
@@ -2586,12 +2586,12 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001221": {
@@ -2600,12 +2600,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001226": {
@@ -2614,12 +2614,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000598": {
@@ -2628,12 +2628,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000398": {
@@ -2642,12 +2642,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "J000307": {
@@ -2656,12 +2656,12 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "I000058": {
@@ -2670,12 +2670,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000477": {
@@ -2684,12 +2684,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "E000235": {
@@ -2698,12 +2698,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "E000246": {
@@ -2712,11 +2712,11 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:10:00-05:00",
-        "vote_number": 318,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
+        "description": "Passed",
         "position": "Yea"
       }
     },
@@ -2726,12 +2726,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001316": {
@@ -2740,12 +2740,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "A000379": {
@@ -2754,12 +2754,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000475": {
@@ -2768,12 +2768,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000474": {
@@ -2782,12 +2782,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001218": {
@@ -2796,12 +2796,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000305": {
@@ -2810,12 +2810,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001136": {
@@ -2824,12 +2824,12 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "L000273": {
@@ -2838,12 +2838,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000597": {
@@ -2852,12 +2852,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000470": {
@@ -2866,12 +2866,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001210": {
@@ -2880,12 +2880,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000592": {
@@ -2894,12 +2894,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000590": {
@@ -2908,12 +2908,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "V000133": {
@@ -2922,12 +2922,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000614": {
@@ -2936,12 +2936,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000591": {
@@ -2950,12 +2950,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001212": {
@@ -2964,12 +2964,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "O000173": {
@@ -2978,12 +2978,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001119": {
@@ -2992,12 +2992,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000481": {
@@ -3006,12 +3006,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001215": {
@@ -3020,11 +3020,11 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-09T19:07:00-05:00",
-        "vote_number": 316,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HR 9612 \u2014 Passed",
+        "description": "Passed",
         "position": "Yea"
       }
     },
@@ -3034,12 +3034,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001201": {
@@ -3048,12 +3048,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000583": {
@@ -3062,12 +3062,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001298": {
@@ -3076,12 +3076,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001301": {
@@ -3090,12 +3090,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000606": {
@@ -3104,12 +3104,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000388": {
@@ -3118,12 +3118,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000822": {
@@ -3132,12 +3132,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000603": {
@@ -3146,12 +3146,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "Z000018": {
@@ -3160,12 +3160,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "E000294": {
@@ -3174,12 +3174,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000624": {
@@ -3188,12 +3188,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001194": {
@@ -3202,12 +3202,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001196": {
@@ -3230,12 +3230,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "A000370": {
@@ -3244,12 +3244,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001066": {
@@ -3258,12 +3258,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001067": {
@@ -3272,12 +3272,12 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000812": {
@@ -3286,12 +3286,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001195": {
@@ -3300,12 +3300,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "A000369": {
@@ -3314,12 +3314,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001058": {
@@ -3328,12 +3328,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001052": {
@@ -3342,12 +3342,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "K000375": {
@@ -3356,12 +3356,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001172": {
@@ -3370,12 +3370,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000798": {
@@ -3384,12 +3384,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000468": {
@@ -3398,12 +3398,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000597": {
@@ -3412,12 +3412,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000034": {
@@ -3426,12 +3426,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000193": {
@@ -3440,12 +3440,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S000522": {
@@ -3454,12 +3454,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M000687": {
@@ -3468,12 +3468,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000450": {
@@ -3482,12 +3482,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001061": {
@@ -3496,12 +3496,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000562": {
@@ -3510,12 +3510,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000546": {
@@ -3524,12 +3524,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001143": {
@@ -3538,12 +3538,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H000874": {
@@ -3552,12 +3552,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001328": {
@@ -3566,12 +3566,12 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000485": {
@@ -3580,12 +3580,12 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001229": {
@@ -3594,12 +3594,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001228": {
@@ -3608,12 +3608,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001233": {
@@ -3622,12 +3622,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "J000311": {
@@ -3636,12 +3636,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000487": {
@@ -3650,12 +3650,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001225": {
@@ -3664,12 +3664,12 @@
       "district": 17,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000617": {
@@ -3678,12 +3678,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "N000193": {
@@ -3692,12 +3692,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001219": {
@@ -3720,12 +3720,12 @@
       "district": 23,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001220": {
@@ -3734,12 +3734,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001218": {
@@ -3748,12 +3748,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T09:45:00-05:00",
+        "vote_number": 322,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "J000309": {
@@ -3762,12 +3762,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001093": {
@@ -3776,12 +3776,12 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001129": {
@@ -3790,12 +3790,12 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001315": {
@@ -3804,12 +3804,12 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "Y000067": {
@@ -3818,12 +3818,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001125": {
@@ -3832,12 +3832,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000595": {
@@ -3846,12 +3846,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000788": {
@@ -3860,12 +3860,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S000929": {
@@ -3874,12 +3874,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S000168": {
@@ -3902,12 +3902,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001214": {
@@ -3916,12 +3916,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001211": {
@@ -3930,12 +3930,12 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M000871": {
@@ -3944,12 +3944,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001091": {
@@ -3958,12 +3958,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000593": {
@@ -3972,12 +3972,12 @@
       "district": 28,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000446": {
@@ -3986,12 +3986,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001116": {
@@ -4000,12 +4000,12 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "A000148": {
@@ -4014,12 +4014,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000482": {
@@ -4028,12 +4028,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000629": {
@@ -4042,12 +4042,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001307": {
@@ -4056,12 +4056,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "U000040": {
@@ -4070,12 +4070,12 @@
       "district": 14,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001117": {
@@ -4084,12 +4084,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000586": {
@@ -4098,12 +4098,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000469": {
@@ -4112,12 +4112,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001208": {
@@ -4126,12 +4126,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "E000298": {
@@ -4140,12 +4140,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "J000299": {
@@ -4154,12 +4154,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001077": {
@@ -4168,12 +4168,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "K000391": {
@@ -4182,12 +4182,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001199": {
@@ -4196,12 +4196,12 @@
       "district": 21,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001108": {
@@ -4210,12 +4210,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000585": {
@@ -4224,12 +4224,12 @@
       "district": 16,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001295": {
@@ -4238,12 +4238,12 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "A000372": {
@@ -4252,12 +4252,12 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000583": {
@@ -4266,12 +4266,12 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001103": {
@@ -4280,12 +4280,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001101": {
@@ -4294,12 +4294,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001282": {
@@ -4308,12 +4308,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001190": {
@@ -4322,12 +4322,12 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000462": {
@@ -4336,12 +4336,12 @@
       "district": 22,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001184": {
@@ -4350,12 +4350,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001188": {
@@ -4364,12 +4364,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "S001189": {
@@ -4378,12 +4378,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000808": {
@@ -4392,11 +4392,11 @@
       "district": 24,
       "party": "D",
       "last_vote": {
-        "date": "2026-09-16T19:05:00-04:00",
-        "vote_number": 314,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "S 2403 \u2014 Passed",
+        "description": "Passed",
         "position": "Yea"
       }
     },
@@ -4406,12 +4406,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "Q000023": {
@@ -4420,12 +4420,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000558": {
@@ -4434,12 +4434,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001176": {
@@ -4448,11 +4448,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:10:00-05:00",
-        "vote_number": 318,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
+        "description": "Passed",
         "position": "Yea"
       }
     },
@@ -4462,12 +4462,12 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001072": {
@@ -4476,12 +4476,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000385": {
@@ -4490,12 +4490,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001148": {
@@ -4504,12 +4504,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001145": {
@@ -4518,12 +4518,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M000312": {
@@ -4532,12 +4532,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000096": {
@@ -4546,12 +4546,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000395": {
@@ -4560,12 +4560,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B000490": {
@@ -4574,12 +4574,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "N000015": {
@@ -4588,12 +4588,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000797": {
@@ -4602,12 +4602,12 @@
       "district": 25,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000600": {
@@ -4616,12 +4616,12 @@
       "district": 26,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001055": {
@@ -4630,12 +4630,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000110": {
@@ -4644,12 +4644,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000832": {
@@ -4658,12 +4658,12 @@
       "district": 14,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000622": {
@@ -4672,12 +4672,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000484": {
@@ -4686,12 +4686,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000830": {
@@ -4700,12 +4700,12 @@
       "district": 27,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000491": {
@@ -4714,12 +4714,12 @@
       "district": 45,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001231": {
@@ -4728,12 +4728,12 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000620": {
@@ -4742,12 +4742,12 @@
       "district": 29,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001241": {
@@ -4756,12 +4756,12 @@
       "district": 47,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001238": {
@@ -4770,12 +4770,12 @@
       "district": 0,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000607": {
@@ -4784,12 +4784,12 @@
       "district": 16,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001100": {
@@ -4798,12 +4798,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001099": {
@@ -4812,12 +4812,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000605": {
@@ -4826,12 +4826,12 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000483": {
@@ -4840,12 +4840,12 @@
       "district": 30,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "E000300": {
@@ -4854,12 +4854,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001137": {
@@ -4868,12 +4868,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000480": {
@@ -4882,12 +4882,12 @@
       "district": 20,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000620": {
@@ -4896,12 +4896,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001225": {
@@ -4910,12 +4910,12 @@
       "district": 15,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001216": {
@@ -4924,12 +4924,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000596": {
@@ -4938,12 +4938,12 @@
       "district": 13,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000597": {
@@ -4952,12 +4952,12 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000401": {
@@ -4966,12 +4966,12 @@
       "district": 3,
       "party": "I",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000400": {
@@ -4980,12 +4980,12 @@
       "district": 37,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000598": {
@@ -4994,12 +4994,12 @@
       "district": 42,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001314": {
@@ -5008,12 +5008,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "O000019": {
@@ -5022,12 +5022,12 @@
       "district": 23,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000397": {
@@ -5036,12 +5036,12 @@
       "district": 40,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "J000305": {
@@ -5050,12 +5050,12 @@
       "district": 51,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000472": {
@@ -5064,12 +5064,12 @@
       "district": 18,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000032": {
@@ -5092,12 +5092,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B000825": {
@@ -5106,12 +5106,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T13:04:00-05:00",
+        "vote_number": 320,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HRES 1247 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "S001214": {
@@ -5120,12 +5120,12 @@
       "district": 17,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001081": {
@@ -5134,12 +5134,12 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001121": {
@@ -5148,12 +5148,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "N000191": {
@@ -5162,12 +5162,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000593": {
@@ -5176,12 +5176,12 @@
       "district": 49,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001123": {
@@ -5190,12 +5190,12 @@
       "district": 31,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001090": {
@@ -5204,12 +5204,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000585": {
@@ -5218,12 +5218,12 @@
       "district": 34,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001200": {
@@ -5232,12 +5232,12 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000609": {
@@ -5246,12 +5246,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000628": {
@@ -5288,12 +5288,12 @@
       "district": 44,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001112": {
@@ -5302,12 +5302,12 @@
       "district": 24,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000613": {
@@ -5316,12 +5316,12 @@
       "district": 19,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "K000389": {
@@ -5330,12 +5330,12 @@
       "district": 17,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000474": {
@@ -5344,12 +5344,12 @@
       "district": 35,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000582": {
@@ -5358,12 +5358,12 @@
       "district": 36,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "A000371": {
@@ -5372,12 +5372,12 @@
       "district": 33,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000623": {
@@ -5386,12 +5386,12 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000608": {
@@ -5400,12 +5400,12 @@
       "district": 50,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "V000130": {
@@ -5414,12 +5414,12 @@
       "district": 52,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "T000472": {
@@ -5428,12 +5428,12 @@
       "district": 39,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000599": {
@@ -5442,12 +5442,12 @@
       "district": 25,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001285": {
@@ -5456,12 +5456,12 @@
       "district": 26,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "V000129": {
@@ -5470,12 +5470,12 @@
       "district": 22,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001287": {
@@ -5484,12 +5484,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000559": {
@@ -5498,12 +5498,12 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001080": {
@@ -5512,12 +5512,12 @@
       "district": 28,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000806": {
@@ -5526,12 +5526,12 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001260": {
@@ -5540,12 +5540,12 @@
       "district": 16,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001066": {
@@ -5554,12 +5554,12 @@
       "district": 14,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001257": {
@@ -5568,12 +5568,12 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001069": {
@@ -5582,12 +5582,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001047": {
@@ -5596,12 +5596,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001177": {
@@ -5610,12 +5610,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "M001163": {
@@ -5624,12 +5624,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "P000197": {
@@ -5652,12 +5652,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000557": {
@@ -5666,12 +5666,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S000344": {
@@ -5680,12 +5680,12 @@
       "district": 32,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000197": {
@@ -5694,12 +5694,12 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "W000187": {
@@ -5708,12 +5708,12 @@
       "district": 43,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "N000147": {
@@ -5736,12 +5736,12 @@
       "district": 21,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001156": {
@@ -5750,12 +5750,12 @@
       "district": 38,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "I000056": {
@@ -5764,12 +5764,12 @@
       "district": 48,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T09:45:00-05:00",
+        "vote_number": 322,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "C000059": {
@@ -5778,12 +5778,12 @@
       "district": 41,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "D000216": {
@@ -5792,12 +5792,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "L000397": {
@@ -5806,12 +5806,12 @@
       "district": 18,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000607": {
@@ -5820,12 +5820,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "G000606": {
@@ -5834,12 +5834,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001098": {
@@ -5848,12 +5848,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "F000481": {
@@ -5862,12 +5862,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001323": {
@@ -5876,12 +5876,12 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "A000381": {
@@ -5890,12 +5890,12 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001220": {
@@ -5904,12 +5904,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001132": {
@@ -5918,12 +5918,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "C001133": {
@@ -5932,12 +5932,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "M001212": {
@@ -5946,12 +5946,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001211": {
@@ -5960,12 +5960,12 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "B001302": {
@@ -5974,12 +5974,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "W000821": {
@@ -5988,12 +5988,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001072": {
@@ -6002,12 +6002,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000600": {
@@ -6023,12 +6023,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "H001068": {
@@ -6037,12 +6037,12 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "S001183": {
@@ -6051,12 +6051,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "G000565": {
@@ -6065,12 +6065,12 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-11T14:43:00-05:00",
+        "vote_number": 321,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 1013 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "W000809": {
@@ -6079,12 +6079,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "C001087": {
@@ -6093,12 +6093,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Nay"
       }
     },
     "S001185": {
@@ -6107,12 +6107,12 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "A000055": {
@@ -6121,12 +6121,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     },
     "R000575": {
@@ -6135,12 +6135,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-12T10:59:00-05:00",
+        "vote_number": 323,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "Passed",
+        "position": "Yea"
       }
     }
   }
