@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-17T18:53:56.398327+00:00",
+  "updated_at": "2026-11-18T18:34:39.639731+00:00",
   "congress": 119,
   "session": 2,
-  "latest_vote_number": 323,
+  "latest_vote_number": 325,
   "members": {
     "S001223": {
       "name": "Sykes, Emilia Strong",
@@ -10,11 +10,11 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -24,11 +24,11 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -38,11 +38,11 @@
       "district": 18,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -52,11 +52,11 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -66,11 +66,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -80,11 +80,11 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -94,11 +94,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -108,11 +108,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -122,12 +122,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "K000403": {
@@ -136,11 +136,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -164,12 +164,12 @@
       "district": 26,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "B001322": {
@@ -178,11 +178,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -192,11 +192,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -206,11 +206,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -220,11 +220,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -234,11 +234,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -248,11 +248,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -262,11 +262,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-11T14:43:00-05:00",
-        "vote_number": 321,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "HR 1013 \u2014 Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -276,11 +276,11 @@
       "district": 38,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -290,11 +290,11 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -318,11 +318,11 @@
       "district": 30,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -332,11 +332,11 @@
       "district": 35,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -346,11 +346,11 @@
       "district": 0,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -360,12 +360,12 @@
       "district": 24,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "S001159": {
@@ -374,11 +374,11 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -402,11 +402,11 @@
       "district": 22,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -416,12 +416,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "F000471": {
@@ -430,11 +430,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -458,12 +458,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "S001213": {
@@ -472,11 +472,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -486,11 +486,11 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -500,11 +500,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -514,11 +514,11 @@
       "district": 29,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -542,11 +542,11 @@
       "district": 16,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -556,12 +556,12 @@
       "district": 27,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "J000298": {
@@ -570,11 +570,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -584,11 +584,11 @@
       "district": 19,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -598,11 +598,11 @@
       "district": 34,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -612,12 +612,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "N000189": {
@@ -626,11 +626,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -654,11 +654,11 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -668,11 +668,11 @@
       "district": 36,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -682,11 +682,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -696,11 +696,11 @@
       "district": 33,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -710,11 +710,11 @@
       "district": 25,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -724,11 +724,11 @@
       "district": 20,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -738,11 +738,11 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -752,11 +752,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -766,11 +766,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -780,12 +780,12 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "S000510": {
@@ -794,11 +794,11 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -808,11 +808,11 @@
       "district": 17,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -822,11 +822,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -836,11 +836,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -850,11 +850,11 @@
       "district": 28,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -864,11 +864,11 @@
       "district": 31,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -878,11 +878,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -892,11 +892,11 @@
       "district": 37,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -906,11 +906,11 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -920,11 +920,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -934,11 +934,11 @@
       "district": 19,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -948,11 +948,11 @@
       "district": 22,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -962,11 +962,11 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -976,11 +976,11 @@
       "district": 16,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1004,11 +1004,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1018,11 +1018,11 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1032,11 +1032,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1046,11 +1046,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1060,11 +1060,11 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1074,12 +1074,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "R000619": {
@@ -1088,11 +1088,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1102,11 +1102,11 @@
       "district": 26,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1116,11 +1116,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1130,11 +1130,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Nay"
       }
     },
@@ -1144,11 +1144,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1172,11 +1172,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1200,11 +1200,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1214,11 +1214,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1228,11 +1228,11 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1242,11 +1242,11 @@
       "district": 17,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1256,11 +1256,11 @@
       "district": 23,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1270,11 +1270,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1284,11 +1284,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1298,11 +1298,11 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T09:45:00-05:00",
-        "vote_number": 322,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1312,12 +1312,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "D000530": {
@@ -1326,11 +1326,11 @@
       "district": 17,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1354,11 +1354,11 @@
       "district": 18,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1368,11 +1368,11 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1382,11 +1382,11 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1396,11 +1396,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1410,11 +1410,11 @@
       "district": 15,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1424,11 +1424,11 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1438,12 +1438,12 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "M000194": {
@@ -1452,11 +1452,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1466,12 +1466,12 @@
       "district": 13,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "H001086": {
@@ -1480,12 +1480,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "F000246": {
@@ -1494,11 +1494,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1508,11 +1508,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1522,11 +1522,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1536,11 +1536,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1550,11 +1550,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1564,11 +1564,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-11T14:43:00-05:00",
-        "vote_number": 321,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "HR 1013 \u2014 Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1578,12 +1578,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "B001309": {
@@ -1592,12 +1592,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "J000301": {
@@ -1606,11 +1606,11 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1620,11 +1620,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-11T14:43:00-05:00",
-        "vote_number": 321,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "HR 1013 \u2014 Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1634,12 +1634,12 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "J000302": {
@@ -1648,11 +1648,11 @@
       "district": 13,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1662,11 +1662,11 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1676,11 +1676,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1690,11 +1690,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1704,11 +1704,11 @@
       "district": 14,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1718,11 +1718,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1732,11 +1732,11 @@
       "district": 25,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1746,11 +1746,11 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1760,11 +1760,11 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1774,11 +1774,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Nay"
       }
     },
@@ -1788,11 +1788,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1802,12 +1802,12 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "F000466": {
@@ -1816,11 +1816,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1830,11 +1830,11 @@
       "district": 24,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1844,11 +1844,11 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1858,11 +1858,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1872,11 +1872,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1886,11 +1886,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1900,11 +1900,11 @@
       "district": 21,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1914,12 +1914,12 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-11T14:43:00-05:00",
-        "vote_number": 321,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "HR 1013 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "J000295": {
@@ -1928,11 +1928,11 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1942,11 +1942,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1956,11 +1956,11 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1970,11 +1970,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1984,11 +1984,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -1998,11 +1998,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2026,11 +2026,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2040,11 +2040,11 @@
       "district": 16,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2054,11 +2054,11 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2068,11 +2068,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2082,11 +2082,11 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2096,11 +2096,11 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2110,11 +2110,11 @@
       "district": 20,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2138,11 +2138,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2152,11 +2152,11 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2166,11 +2166,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2180,11 +2180,11 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T18:56:00-05:00",
+        "vote_number": 324,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 8483 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2194,11 +2194,11 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2208,11 +2208,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2222,11 +2222,11 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2236,11 +2236,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2250,11 +2250,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2264,11 +2264,11 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2278,11 +2278,11 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2306,11 +2306,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2320,11 +2320,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2334,11 +2334,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2348,11 +2348,11 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2362,11 +2362,11 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2376,11 +2376,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2390,11 +2390,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2404,11 +2404,11 @@
       "district": 13,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2432,12 +2432,12 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "H001101": {
@@ -2446,12 +2446,12 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "G000604": {
@@ -2460,11 +2460,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2474,12 +2474,12 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "E000301": {
@@ -2488,11 +2488,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2502,11 +2502,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2516,11 +2516,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2530,11 +2530,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2544,11 +2544,11 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2558,11 +2558,11 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2572,11 +2572,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2586,11 +2586,11 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2600,11 +2600,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2614,11 +2614,11 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2628,11 +2628,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2642,11 +2642,11 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2670,11 +2670,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2684,11 +2684,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2698,11 +2698,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2712,12 +2712,12 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "D000230": {
@@ -2726,11 +2726,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2740,12 +2740,12 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "A000379": {
@@ -2754,11 +2754,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2768,11 +2768,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2782,11 +2782,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2796,11 +2796,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2810,11 +2810,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2824,11 +2824,11 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-11T14:43:00-05:00",
-        "vote_number": 321,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "HR 1013 \u2014 Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2838,11 +2838,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2852,11 +2852,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2866,11 +2866,11 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2880,12 +2880,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "G000592": {
@@ -2908,11 +2908,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2922,11 +2922,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2936,11 +2936,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2950,11 +2950,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2964,11 +2964,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2978,11 +2978,11 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -2992,11 +2992,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3006,11 +3006,11 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3020,11 +3020,11 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3034,11 +3034,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3048,11 +3048,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3062,11 +3062,11 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3076,11 +3076,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3090,11 +3090,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3104,11 +3104,11 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3118,11 +3118,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3132,11 +3132,11 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3146,11 +3146,11 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3160,11 +3160,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3174,12 +3174,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "D000624": {
@@ -3188,11 +3188,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3202,11 +3202,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3216,12 +3216,12 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "No"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "N000188": {
@@ -3244,11 +3244,11 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3258,11 +3258,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3272,11 +3272,11 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3286,11 +3286,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3300,11 +3300,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3314,11 +3314,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3328,11 +3328,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3342,11 +3342,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Nay"
       }
     },
@@ -3356,11 +3356,11 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3370,11 +3370,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3384,11 +3384,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3398,11 +3398,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3412,11 +3412,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3426,11 +3426,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3440,11 +3440,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3454,11 +3454,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3468,11 +3468,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3482,12 +3482,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "C001061": {
@@ -3510,11 +3510,11 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3524,11 +3524,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3538,11 +3538,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3552,11 +3552,11 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3566,11 +3566,11 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3580,11 +3580,11 @@
       "district": 14,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3594,11 +3594,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3608,11 +3608,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3622,11 +3622,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3636,11 +3636,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3650,11 +3650,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3664,11 +3664,11 @@
       "district": 17,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3678,11 +3678,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3720,11 +3720,11 @@
       "district": 23,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3734,11 +3734,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3748,11 +3748,11 @@
       "district": 7,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T09:45:00-05:00",
-        "vote_number": 322,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Nay"
       }
     },
@@ -3762,11 +3762,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3776,11 +3776,11 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3790,12 +3790,12 @@
       "district": 10,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "B001315": {
@@ -3804,11 +3804,11 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3818,11 +3818,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3832,11 +3832,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3860,11 +3860,11 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3874,11 +3874,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3888,12 +3888,12 @@
       "district": 27,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-10T18:20:00-05:00",
-        "vote_number": 319,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "HRES 1650 \u2014 Passed",
-        "position": "Aye"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001215": {
@@ -3902,11 +3902,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3916,11 +3916,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3930,12 +3930,12 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "M000871": {
@@ -3944,12 +3944,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "H001091": {
@@ -3958,11 +3958,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3972,11 +3972,11 @@
       "district": 28,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -3986,11 +3986,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4000,11 +4000,11 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Nay"
       }
     },
@@ -4028,11 +4028,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4042,11 +4042,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4056,11 +4056,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4070,11 +4070,11 @@
       "district": 14,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4084,11 +4084,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4098,11 +4098,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4112,11 +4112,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4126,11 +4126,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4140,12 +4140,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "J000299": {
@@ -4154,11 +4154,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4168,11 +4168,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Nay"
       }
     },
@@ -4182,11 +4182,11 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4196,11 +4196,11 @@
       "district": 21,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4210,11 +4210,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4224,11 +4224,11 @@
       "district": 16,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4238,11 +4238,11 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4252,11 +4252,11 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4280,11 +4280,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4294,11 +4294,11 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4308,11 +4308,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4322,11 +4322,11 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4336,11 +4336,11 @@
       "district": 22,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4350,11 +4350,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4364,12 +4364,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S001189": {
@@ -4378,11 +4378,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4406,11 +4406,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4420,11 +4420,11 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4434,11 +4434,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4448,11 +4448,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4462,11 +4462,11 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4476,11 +4476,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4490,11 +4490,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4504,11 +4504,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4532,11 +4532,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4546,11 +4546,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4560,11 +4560,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4574,11 +4574,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4588,11 +4588,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4602,11 +4602,11 @@
       "district": 25,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4616,11 +4616,11 @@
       "district": 26,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4630,11 +4630,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4644,11 +4644,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4658,11 +4658,11 @@
       "district": 14,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4672,11 +4672,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4686,11 +4686,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4700,11 +4700,11 @@
       "district": 27,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4714,11 +4714,11 @@
       "district": 45,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4728,11 +4728,11 @@
       "district": 12,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4742,11 +4742,11 @@
       "district": 29,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4756,11 +4756,11 @@
       "district": 47,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4770,11 +4770,11 @@
       "district": 0,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4784,11 +4784,11 @@
       "district": 16,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4798,11 +4798,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4812,11 +4812,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4826,11 +4826,11 @@
       "district": 13,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4840,11 +4840,11 @@
       "district": 30,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4854,11 +4854,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4868,11 +4868,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4882,11 +4882,11 @@
       "district": 20,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4896,11 +4896,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4910,11 +4910,11 @@
       "district": 15,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4952,11 +4952,11 @@
       "district": 15,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4980,11 +4980,11 @@
       "district": 37,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -4994,11 +4994,11 @@
       "district": 42,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5008,12 +5008,12 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "O000019": {
@@ -5022,11 +5022,11 @@
       "district": 23,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5036,11 +5036,11 @@
       "district": 40,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5050,11 +5050,11 @@
       "district": 51,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5064,12 +5064,12 @@
       "district": 18,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "D000032": {
@@ -5092,12 +5092,12 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "B000825": {
@@ -5120,12 +5120,12 @@
       "district": 17,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-11T14:43:00-05:00",
-        "vote_number": 321,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "HR 1013 \u2014 Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "H001081": {
@@ -5134,11 +5134,11 @@
       "district": 5,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5148,11 +5148,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5162,11 +5162,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5176,11 +5176,11 @@
       "district": 49,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5190,11 +5190,11 @@
       "district": 31,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5204,11 +5204,11 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5232,11 +5232,11 @@
       "district": 9,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5246,11 +5246,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5288,11 +5288,11 @@
       "district": 44,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5302,11 +5302,11 @@
       "district": 24,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5316,11 +5316,11 @@
       "district": 19,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5344,11 +5344,11 @@
       "district": 35,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5358,11 +5358,11 @@
       "district": 36,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5372,11 +5372,11 @@
       "district": 33,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5386,11 +5386,11 @@
       "district": 10,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5400,11 +5400,11 @@
       "district": 50,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5414,11 +5414,11 @@
       "district": 52,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5428,11 +5428,11 @@
       "district": 39,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5442,11 +5442,11 @@
       "district": 25,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5456,11 +5456,11 @@
       "district": 26,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5470,11 +5470,11 @@
       "district": 22,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-11T14:43:00-05:00",
-        "vote_number": 321,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "HR 1013 \u2014 Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5484,11 +5484,11 @@
       "district": 6,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5498,11 +5498,11 @@
       "district": 8,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5512,11 +5512,11 @@
       "district": 28,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5526,11 +5526,11 @@
       "district": 11,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5554,11 +5554,11 @@
       "district": 14,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5568,11 +5568,11 @@
       "district": 12,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5582,11 +5582,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5596,11 +5596,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5610,12 +5610,12 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "M001163": {
@@ -5624,11 +5624,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5638,11 +5638,11 @@
       "district": 11,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-09T19:07:00-05:00",
-        "vote_number": 316,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "HR 9612 \u2014 Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5652,11 +5652,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5666,11 +5666,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5680,11 +5680,11 @@
       "district": 32,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5694,11 +5694,11 @@
       "district": 1,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5708,11 +5708,11 @@
       "district": 43,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5736,11 +5736,11 @@
       "district": 21,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5750,11 +5750,11 @@
       "district": 38,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5764,12 +5764,12 @@
       "district": 48,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T09:45:00-05:00",
-        "vote_number": 322,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C000059": {
@@ -5778,11 +5778,11 @@
       "district": 41,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5792,11 +5792,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5806,11 +5806,11 @@
       "district": 18,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5820,11 +5820,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5834,11 +5834,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5848,11 +5848,11 @@
       "district": 8,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5862,11 +5862,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5876,11 +5876,11 @@
       "district": 0,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5890,11 +5890,11 @@
       "district": 3,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5904,11 +5904,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5918,12 +5918,12 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "C001133": {
@@ -5932,11 +5932,11 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5946,11 +5946,11 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5960,11 +5960,11 @@
       "district": 4,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -5974,11 +5974,11 @@
       "district": 5,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Nay"
       }
     },
@@ -5988,11 +5988,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -6002,11 +6002,11 @@
       "district": 2,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -6023,12 +6023,12 @@
       "district": 6,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Yea"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Nay"
       }
     },
     "H001068": {
@@ -6037,11 +6037,11 @@
       "district": 2,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -6051,12 +6051,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "G000565": {
@@ -6065,11 +6065,11 @@
       "district": 9,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-11T14:43:00-05:00",
-        "vote_number": 321,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "HR 1013 \u2014 Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -6079,11 +6079,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -6093,12 +6093,12 @@
       "district": 1,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
-        "position": "Nay"
+        "description": "HR 9600 \u2014 Passed",
+        "position": "Yea"
       }
     },
     "S001185": {
@@ -6107,11 +6107,11 @@
       "district": 7,
       "party": "D",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -6121,11 +6121,11 @@
       "district": 4,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     },
@@ -6135,11 +6135,11 @@
       "district": 3,
       "party": "R",
       "last_vote": {
-        "date": "2026-11-12T10:59:00-05:00",
-        "vote_number": 323,
+        "date": "2026-11-17T19:05:00-05:00",
+        "vote_number": 325,
         "congress": 119,
         "session": 2,
-        "description": "Passed",
+        "description": "HR 9600 \u2014 Passed",
         "position": "Yea"
       }
     }
